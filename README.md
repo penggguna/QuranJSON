@@ -1,2 +1,2 @@
-# quran_api
+# quran-audio_api
 Quran Audio API
