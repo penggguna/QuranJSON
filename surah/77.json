@@ -1,0 +1,333 @@
+{
+  "name": "Al-Mursalat",
+  "name_translations": {
+    "ar": "المرسلات",
+    "en": "The Emissaries",
+    "id": "Malaikat Yang Diutus"
+  },
+  "number_of_ayah": 50,
+  "number_of_surah": 77,
+  "place": "Mecca",
+  "recitations": [{
+    "name": "Mishari Rashid al-`Afasy",
+    "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/undefined.mp3"
+  }, {
+    "name": "Abdur-Rahman as-Sudais",
+    "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/undefined.mp3"
+  }, {
+    "name": "Saad al-Ghamdi",
+    "audio_url": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/undefined.mp3"
+  }],
+  "type": "Makkiyah",
+  "verses": [{
+    "number": 1,
+    "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ وَٱلْمُرْسَلَٰتِ عُرْفًا",
+    "translation_en": "By those [winds] sent forth in gusts",
+    "translation_id": "Demi malaikat-malaikat yang diutus untuk membawa kebaikan,"
+  }, {
+    "number": 2,
+    "text": "فَٱلْعَٰصِفَٰتِ عَصْفًا",
+    "translation_en": "And the winds that blow violently",
+    "translation_id": "dan (malaikat-malaikat) yang terbang dengan kencangnya,"
+  }, {
+    "number": 3,
+    "text": "وَٱلنَّٰشِرَٰتِ نَشْرًا",
+    "translation_en": "And [by] the winds that spread [clouds]",
+    "translation_id": "dan (malaikat-malaikat) yang menyebarkan (rahmat Tuhannya) dengan seluas-luasnya,"
+  }, {
+    "number": 4,
+    "text": "فَٱلْفَٰرِقَٰتِ فَرْقًا",
+    "translation_en": "And those [angels] who bring criterion",
+    "translation_id": "dan (malaikat-malaikat) yang membedakan (antara yang hak dan yang bathil) dengan sejelas-jelasnya,"
+  }, {
+    "number": 5,
+    "text": "فَٱلْمُلْقِيَٰتِ ذِكْرًا",
+    "translation_en": "And those [angels] who deliver a message",
+    "translation_id": "dan (malaikat-malaikat) yang menyampaikan wahyu,"
+  }, {
+    "number": 6,
+    "text": "عُذْرًا أَوْ نُذْرًا",
+    "translation_en": "As justification or warning,",
+    "translation_id": "untuk menolak alasan-alasan atau memberi peringatan,"
+  }, {
+    "number": 7,
+    "text": "إِنَّمَا تُوعَدُونَ لَوَٰقِعٌ",
+    "translation_en": "Indeed, what you are promised is to occur.",
+    "translation_id": "sesungguhnya apa yang dijanjikan kepadamu itu pasti terjadi."
+  }, {
+    "number": 8,
+    "text": "فَإِذَا ٱلنُّجُومُ طُمِسَتْ",
+    "translation_en": "So when the stars are obliterated",
+    "translation_id": "Maka apabila bintang-bintang telah dihapuskan,"
+  }, {
+    "number": 9,
+    "text": "وَإِذَا ٱلسَّمَآءُ فُرِجَتْ",
+    "translation_en": "And when the heaven is opened",
+    "translation_id": "dan apabila langit telah dibelah,"
+  }, {
+    "number": 10,
+    "text": "وَإِذَا ٱلْجِبَالُ نُسِفَتْ",
+    "translation_en": "And when the mountains are blown away",
+    "translation_id": "dan apabila gunung-gunung telah dihancurkan menjadi debu,"
+  }, {
+    "number": 11,
+    "text": "وَإِذَا ٱلرُّسُلُ أُقِّتَتْ",
+    "translation_en": "And when the messengers' time has come...",
+    "translation_id": "dan apabila rasul-rasul telah ditetapkan waktu (mereka)."
+  }, {
+    "number": 12,
+    "text": "لِأَىِّ يَوْمٍ أُجِّلَتْ",
+    "translation_en": "For what Day was it postponed?",
+    "translation_id": "(Niscaya dikatakan kepada mereka:) \"Sampai hari apakah ditangguhkan (mengazab orang-orang kafir itu)?\""
+  }, {
+    "number": 13,
+    "text": "لِيَوْمِ ٱلْفَصْلِ",
+    "translation_en": "For the Day of Judgement.",
+    "translation_id": "Sampai hari keputusan."
+  }, {
+    "number": 14,
+    "text": "وَمَآ أَدْرَىٰكَ مَا يَوْمُ ٱلْفَصْلِ",
+    "translation_en": "And what can make you know what is the Day of Judgement?",
+    "translation_id": "Dan tahukah kamu apakah hari keputusan itu?"
+  }, {
+    "number": 15,
+    "text": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+    "translation_en": "Woe, that Day, to the deniers.",
+    "translation_id": "Kecelakaan yang besarlah pada hari itu bagi orang-orang yang mendustakan."
+  }, {
+    "number": 16,
+    "text": "أَلَمْ نُهْلِكِ ٱلْأَوَّلِينَ",
+    "translation_en": "Did We not destroy the former peoples?",
+    "translation_id": "Bukankah Kami telah membinasakan orang-orang yang dahulu?"
+  }, {
+    "number": 17,
+    "text": "ثُمَّ نُتْبِعُهُمُ ٱلْءَاخِرِينَ",
+    "translation_en": "Then We will follow them with the later ones.",
+    "translation_id": "Lalu Kami iringkan (azab Kami terhadap) mereka dengan (mengazab) orang-orang yang datang kemudian."
+  }, {
+    "number": 18,
+    "text": "كَذَٰلِكَ نَفْعَلُ بِٱلْمُجْرِمِينَ",
+    "translation_en": "Thus do We deal with the criminals.",
+    "translation_id": "Demikianlah Kami berbuat terhadap orang-orang yang berdosa."
+  }, {
+    "number": 19,
+    "text": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+    "translation_en": "Woe, that Day, to the deniers.",
+    "translation_id": "Kecelakaan yang besarlah pada hari itu bagi orang-orang yang mendustakan."
+  }, {
+    "number": 20,
+    "text": "أَلَمْ نَخْلُقكُّم مِّن مَّآءٍ مَّهِينٍ",
+    "translation_en": "Did We not create you from a liquid disdained?",
+    "translation_id": "Bukankah Kami menciptakan kamu dari air yang hina?"
+  }, {
+    "number": 21,
+    "text": "فَجَعَلْنَٰهُ فِى قَرَارٍ مَّكِينٍ",
+    "translation_en": "And We placed it in a firm lodging",
+    "translation_id": "kemudian Kami letakkan dia dalam tempat yang kokoh (rahim),"
+  }, {
+    "number": 22,
+    "text": "إِلَىٰ قَدَرٍ مَّعْلُومٍ",
+    "translation_en": "For a known extent.",
+    "translation_id": "sampai waktu yang ditentukan,"
+  }, {
+    "number": 23,
+    "text": "فَقَدَرْنَا فَنِعْمَ ٱلْقَٰدِرُونَ",
+    "translation_en": "And We determined [it], and excellent [are We] to determine.",
+    "translation_id": "lalu Kami tentukan (bentuknya), maka Kami-lah sebaik-baik yang menentukan."
+  }, {
+    "number": 24,
+    "text": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+    "translation_en": "Woe, that Day, to the deniers.",
+    "translation_id": "Kecelakaan yang besarlah pada hari itu bagi orang-orang yang mendustakan."
+  }, {
+    "number": 25,
+    "text": "أَلَمْ نَجْعَلِ ٱلْأَرْضَ كِفَاتًا",
+    "translation_en": "Have We not made the earth a container",
+    "translation_id": "Bukankah Kami menjadikan bumi (tempat) berkumpul,"
+  }, {
+    "number": 26,
+    "text": "أَحْيَآءً وَأَمْوَٰتًا",
+    "translation_en": "Of the living and the dead?",
+    "translation_id": "orang-orang hidup dan orang-orang mati?"
+  }, {
+    "number": 27,
+    "text": "وَجَعَلْنَا فِيهَا رَوَٰسِىَ شَٰمِخَٰتٍ وَأَسْقَيْنَٰكُم مَّآءً فُرَاتًا",
+    "translation_en": "And We placed therein lofty, firmly set mountains and have given you to drink sweet water.",
+    "translation_id": "dan Kami jadikan padanya gunung-gunung yang tinggi, dan Kami beri minum kamu dengan air tawar?"
+  }, {
+    "number": 28,
+    "text": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+    "translation_en": "Woe, that Day, to the deniers.",
+    "translation_id": "Kecelakaan yang besarlah pada hari itu bagi orang-orang yang mendustakan."
+  }, {
+    "number": 29,
+    "text": "ٱنطَلِقُوٓا۟ إِلَىٰ مَا كُنتُم بِهِۦ تُكَذِّبُونَ",
+    "translation_en": "[They will be told], \"Proceed to that which you used to deny.",
+    "translation_id": "(Dikatakan kepada mereka pada hari kiamat): \"Pergilah kamu mendapatkan azab yang dahulunya kamu mendustakannya."
+  }, {
+    "number": 30,
+    "text": "ٱنطَلِقُوٓا۟ إِلَىٰ ظِلٍّ ذِى ثَلَٰثِ شُعَبٍ",
+    "translation_en": "Proceed to a shadow [of smoke] having three columns",
+    "translation_id": "Pergilah kamu mendapatkan naungan yang mempunyai tiga cabang,"
+  }, {
+    "number": 31,
+    "text": "لَّا ظَلِيلٍ وَلَا يُغْنِى مِنَ ٱللَّهَبِ",
+    "translation_en": "[But having] no cool shade and availing not against the flame.\"",
+    "translation_id": "yang tidak melindungi dan tidak pula menolak nyala api neraka\"."
+  }, {
+    "number": 32,
+    "text": "إِنَّهَا تَرْمِى بِشَرَرٍ كَٱلْقَصْرِ",
+    "translation_en": "Indeed, it throws sparks [as huge] as a fortress,",
+    "translation_id": "Sesungguhnya neraka itu melontarkan bunga api sebesar dan setinggi istana."
+  }, {
+    "number": 33,
+    "text": "كَأَنَّهُۥ جِمَٰلَتٌ صُفْرٌ",
+    "translation_en": "As if they were yellowish [black] camels.",
+    "translation_id": "Seolah-olah ia iringan unta yang kuning."
+  }, {
+    "number": 34,
+    "text": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+    "translation_en": "Woe, that Day, to the deniers.",
+    "translation_id": "Kecelakaan yang besarlah pada hari itu bagi orang-orang yang mendustakan."
+  }, {
+    "number": 35,
+    "text": "هَٰذَا يَوْمُ لَا يَنطِقُونَ",
+    "translation_en": "This is a Day they will not speak,",
+    "translation_id": "Ini adalah hari, yang mereka tidak dapat berbicara (pada hari itu),"
+  }, {
+    "number": 36,
+    "text": "وَلَا يُؤْذَنُ لَهُمْ فَيَعْتَذِرُونَ",
+    "translation_en": "Nor will it be permitted for them to make an excuse.",
+    "translation_id": "dan tidak diizinkan kepada mereka minta uzur sehingga mereka (dapat) minta uzur."
+  }, {
+    "number": 37,
+    "text": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+    "translation_en": "Woe, that Day, to the deniers.",
+    "translation_id": "Kecelakaan yang besarlah pada hari itu bagi orang-orang yang mendustakan."
+  }, {
+    "number": 38,
+    "text": "هَٰذَا يَوْمُ ٱلْفَصْلِ جَمَعْنَٰكُمْ وَٱلْأَوَّلِينَ",
+    "translation_en": "This is the Day of Judgement; We will have assembled you and the former peoples.",
+    "translation_id": "Ini adalah hari keputusan; (pada hari ini) Kami mengumpulkan kamu dan orang-orang terdahulu."
+  }, {
+    "number": 39,
+    "text": "فَإِن كَانَ لَكُمْ كَيْدٌ فَكِيدُونِ",
+    "translation_en": "So if you have a plan, then plan against Me.",
+    "translation_id": "Jika kamu mempunyai tipu daya, maka lakukanlah tipu dayamu itu terhadap-Ku."
+  }, {
+    "number": 40,
+    "text": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+    "translation_en": "Woe, that Day, to the deniers.",
+    "translation_id": "Kecelakaan yang besarlah pada hari itu bagi orang-orang yang mendustakan."
+  }, {
+    "number": 41,
+    "text": "إِنَّ ٱلْمُتَّقِينَ فِى ظِلَٰلٍ وَعُيُونٍ",
+    "translation_en": "Indeed, the righteous will be among shades and springs",
+    "translation_id": "Sesungguhnya orang-orang yang bertakwa berada dalam naungan (yang teduh) dan (di sekitar) mata-mata air."
+  }, {
+    "number": 42,
+    "text": "وَفَوَٰكِهَ مِمَّا يَشْتَهُونَ",
+    "translation_en": "And fruits from whatever they desire,",
+    "translation_id": "Dan (mendapat) buah-buahan dari (macam-macam) yang mereka ingini."
+  }, {
+    "number": 43,
+    "text": "كُلُوا۟ وَٱشْرَبُوا۟ هَنِيٓـًٔۢا بِمَا كُنتُمْ تَعْمَلُونَ",
+    "translation_en": "[Being told], \"Eat and drink in satisfaction for what you used to do.\"",
+    "translation_id": "(Dikatakan kepada mereka): \"Makan dan minumlah kamu dengan enak karena apa yang telah kamu kerjakan\"."
+  }, {
+    "number": 44,
+    "text": "إِنَّا كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ",
+    "translation_en": "Indeed, We thus reward the doers of good.",
+    "translation_id": "Sesungguhnya demikianlah Kami memberi balasan kepada orang-orang yang berbuat baik."
+  }, {
+    "number": 45,
+    "text": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+    "translation_en": "Woe, that Day, to the deniers.",
+    "translation_id": "Kecelakaan yang besarlah pada hari itu bagi orang-orang yang mendustakan."
+  }, {
+    "number": 46,
+    "text": "كُلُوا۟ وَتَمَتَّعُوا۟ قَلِيلًا إِنَّكُم مُّجْرِمُونَ",
+    "translation_en": "[O disbelievers], eat and enjoy yourselves a little; indeed, you are criminals.",
+    "translation_id": "(Dikatakan kepada orang-orang kafir): \"Makanlah dan bersenang-senanglah kamu (di dunia dalam waktu) yang pendek; sesungguhnya kamu adalah orang-orang yang berdosa\"."
+  }, {
+    "number": 47,
+    "text": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+    "translation_en": "Woe, that Day, to the deniers.",
+    "translation_id": "Kecelakaan yang besarlah pada hari itu bagi orang-orang yang mendustakan."
+  }, {
+    "number": 48,
+    "text": "وَإِذَا قِيلَ لَهُمُ ٱرْكَعُوا۟ لَا يَرْكَعُونَ",
+    "translation_en": "And when it is said to them, \"Bow [in prayer],\" they do not bow.",
+    "translation_id": "Dan apabila dikatakan kepada mereka: \"Rukuklah, niscaya mereka tidak mau ruku'."
+  }, {
+    "number": 49,
+    "text": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+    "translation_en": "Woe, that Day, to the deniers.",
+    "translation_id": "Kecelakaan yang besarlah pada hari itu bagi orang-orang yang mendustakan."
+  }, {
+    "number": 50,
+    "text": "فَبِأَىِّ حَدِيثٍۭ بَعْدَهُۥ يُؤْمِنُونَ",
+    "translation_en": "Then in what statement after the Qur'an will they believe?",
+    "translation_id": "Maka kepada perkataan apakah selain Al Quran ini mereka akan beriman?"
+  }],
+  "tafsir": {
+    "id": {
+      "kemenag": {
+        "name": "Kemenag",
+        "source": "Aplikasi Quran Kementrian Agama Republik Indonesia",
+        "text": {
+          "1": "Dalam ayat ini, Allah bersumpah dengan malaikat-malaikat yang menyebarkan kebaikan. Al-Mursalat (malaikat-malaikat yang diutus) adalah para malaikat yang bertugas untuk menyampaikan nikmat atau karunia Ilahi kepada suatu kaum atau mendatangkan siksaan kepada kelompok lain yang pantas menerimanya. Sebagian ulama mengartikan al-mursalat itu dengan angin yang bertiup terus-menerus ke segala arah atas perintah Tuhan untuk menyebarkan rahmat dan nikmat ke dunia ini.",
+          "2": "Allah juga bersumpah dengan angin yang bertiup dengan kencang. Ada pula yang mengartikan al-'asifat dengan malaikat-malaikat yang menjauhkan diri dari kebatilan sebagaimana halnya angin kencang yang berhembus meniup onggokan tanah atau debu di atas batu. Yang lain menafsirkannya dengan angin yang menyebarkan air hujan.",
+          "3": "Selanjutnya Allah bersumpah dengan malaikat-malaikat yang menyebarkan rahmat-Nya seluas-luasnya. Terdapat berbagai macam penafsiran tentang kata an-nasyirat di sini. Ada yang mengartikannya dengan malaikat yang menebarkan maut kepada orang yang ditetapkan kematiannya tanpa diketahui sedikit pun. Ada pula yang menafsirkannya dengan malaikat yang menebarkan dan meratakan syariat-syariat Allah kepada sekalian nabi dan rasul-Nya.",
+          "4": "Allah bersumpah pula dengan para malaikat yang membedakan antara yang hak dengan yang batil dengan sejelas-jelasnya, membedakan antara petunjuk dan kesesatan.\n\nSebagian mufasir mengartikan al-fariqat dengan angin yang dapat membedakan mana yang membawa rahmat dan mana yang bertugas merusak manusia banyak. Dengan kata lain, angin pembawa rahmat dan angin pembawa bencana.",
+          "5": "Dalam ayat ini, Allah bersumpah dengan malaikat yang bertugas membawa wahyu kepada para nabi dan rasul. Akan tetapi, seperti pada ayat-ayat sebelumnya, ada yang mengartikan al-mulqiyat ini dengan angin yang menurunkan peringatan akan bencana Allah kepada manusia.",
+          "6": "Dalam ayat ini ditegaskan bahwa kedatangan wahyu kepada para nabi yang dibawa oleh malaikat adalah untuk menyampaikan alasan guna membantah ketidakpercayaan orang musyrik kepada adanya hari kebangkitan, dan untuk mengancam mereka dengan azab yang pedih bila mereka membangkang perintah Tuhan.",
+          "7": "Setelah bersumpah dengan beberapa macam makhluk-Nya di atas, maka dalam ayat ini, Allah menegaskan bahwa sesungguhnya apa yang telah dijanjikan kepada manusia itu pasti akan terjadi. Yang dijanjikan itu adalah datangnya hari kebangkitan, terjadinya kiamat, dihidupkannya kembali segala makhluk yang sudah mati sejak dahulu, sekarang, hingga yang akan datang dan dikumpulkan di Padang Mahsyar. Semuanya itu menurut penegasan ayat ini pasti akan terjadi!",
+          "8": "Dalam ayat ini, Allah menerangkan bahwa pada waktu kedatangan hari Kiamat itu, cahaya bintang-bintang telah dihilangkan karena sumbernya telah berantakan, sebagaimana tersebut dalam ayat lain:\n\nDan apabila bintang-bintang berjatuhan. (at-Takwir/81: 2)",
+          "9": "Dikatakan pula bila langit pecah hancur berantakan berkeping-keping karena terjadinya guncangan gempa yang sangat dahsyat akibat benda-benda langit beradu sesamanya. Demikianlah beberapa ayat lain menceritakan hal yang sama, yakni:\n\nDan (ingatlah) pada hari (ketika) langit pecah mengeluarkan kabut putih dan para malaikat diturunkan (secara) bergelombang. (al-Furqan/25: 25)",
+          "10": "Ayat ini menyebutkan bahwa gunung-gunung dihancurkan menjadi debu. Dalam ayat lain disebutkan kedatangan hari Kiamat menyebabkan gunung-gunung beterbangan bagaikan kapas atau bulu yang diterbangkan angin atau dihancurkan sehancur-hancurnya. Firman Allah: \n\nDan mereka bertanya kepadamu (Muhammad) tentang gunung-gunung, maka katakanlah, \"Tuhanku akan menghancurkannya (pada hari Kiamat) sehancur-hancurnya.\" (thaha/20: 105)",
+          "11": "Dalam ayat ini ditegaskan bahwa dengan kedatangan hari Kiamat, para nabi dan rasul dikumpulkan bersama-sama umat masing-masing. Tujuannya agar nabi dan rasul itu diberi kesempatan untuk mempertanggungjawabkan misi kenabian dan kerasulan mereka di hadapan Allah serta umatnya sebagai saksi. \n\nDan bagaimanakah (keadaan orang kafir nanti), jika Kami mendatangkan seorang saksi (Rasul) dari setiap umat dan Kami mendatangkan engkau (Muhammad) sebagai saksi atas mereka. (an-Nisa'/4: 41)",
+          "12": "Ayat ini menegaskan bahwa sampai kapankah urusan umat dengan rasul mereka ditangguhkan, sehingga yang kafir harus diazab atau mendapatkan kehinaan, dan sebaliknya yang beriman memperoleh kenikmatan dan pemeliharaan dari Allah? Ayat ini merupakan ancaman betapa hebatnya masalah-masalah yang dihadapi umat di hari itu, dan betapa beratnya tanggung jawab manusia di hadapan Allah kelak.",
+          "13": "Kemudian Allah menerangkan bahwa pada hari yang dijanjikan itu Dia menyelesaikan segala perkara yang terjadi di antara sesama makhluk. Pada hari itulah tegaknya Mahkamah Ilahi yang mengadili segala perkara dengan seadil-adilnya. Itulah hari yang disebut Yaumul-Fasl (hari pemisah).",
+          "14": "Dalam ayat ini, Allah menunjukkan betapa dahsyatnya hari itu dalam bentuk pertanyaan kepada Nabi Muhammad, \"Tahukah engkau apakah hari pemisah itu?\" Apakah hari saat umat dan rasul mereka masing-masing dikumpulkan?",
+          "15": "Kemudian Allah sendiri menjelaskan jawaban dari pertanyaan yang disebutkan dalam ayat di atas. Pada hari itu azab dan kehinaan menimpa orang-orang yang mendustakan Allah dan Rasul serta kitab suci yang diturunkan-Nya. Azab akan dijatuhkan kepada manusia yang suka mendustakan apa yang telah disampaikan dan diceritakan para rasul.\n\nSemua orang kafir masih ragu terhadap semua yang ditegaskan Allah. Akan tetapi, Allah tidak akan menyalahi janji-Nya. Ayat lain menegaskan:\n\n(Yaitu) pada hari (ketika) bumi diganti dengan bumi yang lain dan (demikian pula) langit, dan mereka (manusia) berkumpul (di Padang Mahsyar) menghadap Allah Yang Maha Esa, Mahaperkasa. (Ibrahim/14:: 48)",
+          "16": "Ayat ini dimulai dengan pertanyaan Allah, \"Apakah Kami tidak membinasakan orang-orang yang telah mendustakan rasul-Nya sebelum kamu?\" Sejarah para nabi dan rasul bersama kaumnya mencatat bahwa hampir setiap bangsa yang telah mendurhakai Allah dan rasul-Nya telah dibinasakan dengan berbagai macam azab yang satu dengan yang lainnya berbeda.\n\nTerkadang Allah menghancurkan mereka dengan banjir seperti nasib yang telah diderita oleh umat Nabi Nuh, ketika negeri mereka ditenggelamkan Allah dengan air bah. Ada yang ditelan binasa oleh bumi setelah negeri itu dilanda oleh gempa yang sangat hebat, seperti halnya umat Nabi Lut. Ada pula yang diserang angin kencang selama 8 hari 7 malam, yang menyebabkan seluruh penduduknya tewas, kecuali orang yang beriman, yakni umat Nabi Saleh. Begitulah seterusnya.\n\nPertanyaan Allah yang demikian mengandung suatu peringatan halus agar manusia yang masih kafir itu hendaknya mawas diri, sebab bagaimana pun juga sunatullah peraturan Allah yang berlaku tidak akan diubah. Dalam hal ini, siapa yang kafir baik dahulu maupun sekarang atau pada masa yang akan datang, tetap akan merasakan siksaan dari-Nya. Oleh karena itu, hendaklah manusia sadar sebelum datang penyesalan yang tiada berguna.",
+          "17": "Ayat ini menyatakan bahwa azab Allah yang menimpa bangsa-bangsa dahulu kala itu silih berganti datangnya. Umat yang satu binasa, ada umat lain yang serupa. Pada saatnya mereka akan binasa pula bila tidak mau belajar dari sejarah nenek moyang mereka yang mendurhakai Allah dan rasul-Nya.\n\nDengan penurunan Al-Qur'an, Allah memperingatkan orang Mekah yang bersikap menantang dan mendustakan Nabi Muhammad dan juga kepada umat yang hidup sesudah beliau pada masa kini dan akan datang. Hendaklah umat manusia selalu belajar dari sejarah, karena sejarah itu akan datang mengulang dirinya.",
+          "18": "Dalam ayat ini, Allah sekali lagi menegaskan bahwa apa yang telah diperbuat-Nya terhadap umat dahulu akan sama saja dengan apa yang dilakukan-Nya terhadap umat sekarang. Sebab sunnah-Nya sejak dahulu sampai sekarang tetap sama, tidak akan berubah sedikit pun. Begitulah Dia telah menghancurkan orang-orang yang berdosa akibat perbuatan dan sikap mereka yang mendustai-Nya.",
+          "19": "Ayat ini berisi kecaman Allah terhadap orang-orang yang mendustakan-Nya serta para nabi dan rasul-Nya dengan kecaman \"celakalah orang yang mendustakan\".\n\nPengulangan sumpah dan kecaman yang terdapat dalam Surah al-Mursalat ini, di samping dimaksudkan untuk menegaskan arti (ta'kid), juga mengandung pengertian lain, yakni bahwa kecaman tersebut tidak hanya diberlakukan di akhirat, melainkan juga diperlihatkan-Nya di dunia ini.\n\nImam al-Qurthubi mengatakan kata wail diulang-ulang dalam surah ini untuk menunjukkan bahwa untuk masing-masing bangsa yang mendustakan Allah, diberikan siksaan yang berlainan dengan apa yang diterima oleh bangsa lain sebelumnya. Masing-masing umat nabi dahulu kala yang bersikap membangkang telah menerima siksaan Ilahi yang berlainan satu dengan lainnya.",
+          "20": "Pada ayat ini, Allah mengingatkan kembali dengan suatu pertanyaan, \"Tidakkah manusia itu dijadikan dari setetes air yang hina?\" Air yang hina yang disebut mani ini tersimpan dalam tempat yang kokoh yakni rahim ibu. Di situlah mani sang ayah dengan sel telur ibu bercampur dan mengikuti proses kejadian tahap demi tahap yang diatur dengan sangat rapi dan teliti oleh yang Mahakuasa. Setelah cukup waktu yang ditetapkan, maka lahirlah calon manusia itu dalam bentuk bayi.\n\nKetiga ayat di atas kembali mengulang mengenai peran air mani dalam perkembangan manusia. Namun, dalam ayat ini disebutkan rahim secara khusus. Untuk itu, tekanan interpretasi yang berkait dengan ayat ini adalah rahim.\n\nMenurut sains, rahim atau uterus adalah tempat dimana embrio dan janin tumbuh dan berkembang, sebelum dilahirkan dalam bentuk anak manusia yang utuh. Rahim disebutkan sebagai tempat yang kokoh dan aman karena beberapa hal, yaitu:\n\n1.Letaknya terlindung karena terletak di antara tulang panggul. Ia 'dipegang secara kuat di kedua sisinya oleh otot-otot, yang pada saat bersamaan memberikan kebebasan kepada rahim untuk bergerak dan tumbuh sampai beberapa ratus kali ukuran sebelumnya, pada saat puncak kandungan sebelum melahirkan.\n\n2.Pada saat kehamilan, dihasilkan suatu cairan yang dinamakan progesteron, atau biasa disebut sebagai hormon kehamilan, yang berfungsi untuk merendahkan frekuensi kontraksi rahim.\n\n3.Embrio yang ada di dalam rahim dikelilingi oleh beberapa lapisan membran yang menghasilkan suatu cairan dimana embrio itu berenang di dalamnya. Hal ini menjaga embrio dari kemungkinan rusak akibat benturan dari luar.\n\nAda satu ayat lain yang mengindikasikan tahapan-tahapan pengembangan dan keamanan yang ditawarkan rahim kepada janin:\n\n... Dia menjadikan kamu dalam perut ibumu kejadian demi kejadian dalam tiga kegelapan. Yang (berbuat) demikian itu adalah Allah, Tuhan kamu, Tuhan yang memiliki kerajaan. Tidak ada tuhan selain Dia; maka mengapa kamu dapat dipalingkan? (az-Zumar/39: 6)\n\nMengenai tahapan-tahapan sudah kita bahas di depan. Sedangkan mengenai keamanan janin di dalam rahim, para ahli menemukan adanya tiga lapis membran (di dalam ayat di atas disebutkan dengan 'tiga kegelapan) yang dapat mengamankan janin selama berada di dalam rahim, yaitu:\n\n1.Lapisan membran amnion yang mengandung cairan sehingga janin dalam keadaan berenang. Kondisi demikian ini melindungi janin apabila ada benturan dari luar. Di samping itu, posisi berenang ini memberikan kesempatan kepada janin dalam memposisikan diri saat akan dilahirkan.\n\n2.Lapisan membran chorion\n\n3.Lapisan membran decidua\n\nBeberapa peneliti menghubungkan tiga lapisan kegelapan dalam ayat di atas dengan lapisan membran amniotik yang mengelilingi rahim, dinding rahim itu sendiri, dan dinding abdomen di bagian perut.",
+          "21": "Pada ayat ini, Allah mengingatkan kembali dengan suatu pertanyaan, \"Tidakkah manusia itu dijadikan dari setetes air yang hina?\" Air yang hina yang disebut mani ini tersimpan dalam tempat yang kokoh yakni rahim ibu. Di situlah mani sang ayah dengan sel telur ibu bercampur dan mengikuti proses kejadian tahap demi tahap yang diatur dengan sangat rapi dan teliti oleh yang Mahakuasa. Setelah cukup waktu yang ditetapkan, maka lahirlah calon manusia itu dalam bentuk bayi.\n\nKetiga ayat di atas kembali mengulang mengenai peran air mani dalam perkembangan manusia. Namun, dalam ayat ini disebutkan rahim secara khusus. Untuk itu, tekanan interpretasi yang berkait dengan ayat ini adalah rahim.\n\nMenurut sains, rahim atau uterus adalah tempat dimana embrio dan janin tumbuh dan berkembang, sebelum dilahirkan dalam bentuk anak manusia yang utuh. Rahim disebutkan sebagai tempat yang kokoh dan aman karena beberapa hal, yaitu:\n\n1.Letaknya terlindung karena terletak di antara tulang panggul. Ia 'dipegang secara kuat di kedua sisinya oleh otot-otot, yang pada saat bersamaan memberikan kebebasan kepada rahim untuk bergerak dan tumbuh sampai beberapa ratus kali ukuran sebelumnya, pada saat puncak kandungan sebelum melahirkan.\n\n2.Pada saat kehamilan, dihasilkan suatu cairan yang dinamakan progesteron, atau biasa disebut sebagai hormon kehamilan, yang berfungsi untuk merendahkan frekuensi kontraksi rahim.\n\n3.Embrio yang ada di dalam rahim dikelilingi oleh beberapa lapisan membran yang menghasilkan suatu cairan dimana embrio itu berenang di dalamnya. Hal ini menjaga embrio dari kemungkinan rusak akibat benturan dari luar.\n\nAda satu ayat lain yang mengindikasikan tahapan-tahapan pengembangan dan keamanan yang ditawarkan rahim kepada janin:\n\n... Dia menjadikan kamu dalam perut ibumu kejadian demi kejadian dalam tiga kegelapan. Yang (berbuat) demikian itu adalah Allah, Tuhan kamu, Tuhan yang memiliki kerajaan. Tidak ada tuhan selain Dia; maka mengapa kamu dapat dipalingkan? (az-Zumar/39: 6)\n\nMengenai tahapan-tahapan sudah kita bahas di depan. Sedangkan mengenai keamanan janin di dalam rahim, para ahli menemukan adanya tiga lapis membran (di dalam ayat di atas disebutkan dengan 'tiga kegelapan) yang dapat mengamankan janin selama berada di dalam rahim, yaitu:\n\n1.Lapisan membran amnion yang mengandung cairan sehingga janin dalam keadaan berenang. Kondisi demikian ini melindungi janin apabila ada benturan dari luar. Di samping itu, posisi berenang ini memberikan kesempatan kepada janin dalam memposisikan diri saat akan dilahirkan.\n\n2.Lapisan membran chorion\n\n3.Lapisan membran decidua\n\nBeberapa peneliti menghubungkan tiga lapisan kegelapan dalam ayat di atas dengan lapisan membran amniotik yang mengelilingi rahim, dinding rahim itu sendiri, dan dinding abdomen di bagian perut.",
+          "22": "Pada ayat ini, Allah mengingatkan kembali dengan suatu pertanyaan, \"Tidakkah manusia itu dijadikan dari setetes air yang hina?\" Air yang hina yang disebut mani ini tersimpan dalam tempat yang kokoh yakni rahim ibu. Di situlah mani sang ayah dengan sel telur ibu bercampur dan mengikuti proses kejadian tahap demi tahap yang diatur dengan sangat rapi dan teliti oleh yang Mahakuasa. Setelah cukup waktu yang ditetapkan, maka lahirlah calon manusia itu dalam bentuk bayi.\n\nKetiga ayat di atas kembali mengulang mengenai peran air mani dalam perkembangan manusia. Namun, dalam ayat ini disebutkan rahim secara khusus. Untuk itu, tekanan interpretasi yang berkait dengan ayat ini adalah rahim.\n\nMenurut sains, rahim atau uterus adalah tempat dimana embrio dan janin tumbuh dan berkembang, sebelum dilahirkan dalam bentuk anak manusia yang utuh. Rahim disebutkan sebagai tempat yang kokoh dan aman karena beberapa hal, yaitu:\n\n1.Letaknya terlindung karena terletak di antara tulang panggul. Ia 'dipegang secara kuat di kedua sisinya oleh otot-otot, yang pada saat bersamaan memberikan kebebasan kepada rahim untuk bergerak dan tumbuh sampai beberapa ratus kali ukuran sebelumnya, pada saat puncak kandungan sebelum melahirkan.\n\n2.Pada saat kehamilan, dihasilkan suatu cairan yang dinamakan progesteron, atau biasa disebut sebagai hormon kehamilan, yang berfungsi untuk merendahkan frekuensi kontraksi rahim.\n\n3.Embrio yang ada di dalam rahim dikelilingi oleh beberapa lapisan membran yang menghasilkan suatu cairan dimana embrio itu berenang di dalamnya. Hal ini menjaga embrio dari kemungkinan rusak akibat benturan dari luar.\n\nAda satu ayat lain yang mengindikasikan tahapan-tahapan pengembangan dan keamanan yang ditawarkan rahim kepada janin:\n\n... Dia menjadikan kamu dalam perut ibumu kejadian demi kejadian dalam tiga kegelapan. Yang (berbuat) demikian itu adalah Allah, Tuhan kamu, Tuhan yang memiliki kerajaan. Tidak ada tuhan selain Dia; maka mengapa kamu dapat dipalingkan? (az-Zumar/39: 6)\n\nMengenai tahapan-tahapan sudah kita bahas di depan. Sedangkan mengenai keamanan janin di dalam rahim, para ahli menemukan adanya tiga lapis membran (di dalam ayat di atas disebutkan dengan 'tiga kegelapan) yang dapat mengamankan janin selama berada di dalam rahim, yaitu:\n\n1.Lapisan membran amnion yang mengandung cairan sehingga janin dalam keadaan berenang. Kondisi demikian ini melindungi janin apabila ada benturan dari luar. Di samping itu, posisi berenang ini memberikan kesempatan kepada janin dalam memposisikan diri saat akan dilahirkan.\n\n2.Lapisan membran chorion\n\n3.Lapisan membran decidua\n\nBeberapa peneliti menghubungkan tiga lapisan kegelapan dalam ayat di atas dengan lapisan membran amniotik yang mengelilingi rahim, dinding rahim itu sendiri, dan dinding abdomen di bagian perut.",
+          "23": "Dalam urusan mengatur dan menetapkan masa lamanya si anak \"tersimpan\" dalam rahim itu dan kemudian menetapkan bila dia harus lahir sebagai anak yang sempurna ke alam ini, adalah urusan Allah semata. Manusia boleh mengetahui lewat pikirannya, namun soal pengaturannya tetaplah di tangan Yang Mahakuasa. Terhadap soal ini, Allah menegaskan bahwa Dialah sebaik-baiknya yang menentukan.\n\nBetapa tepat, indah, dan harmonis kejadian manusia yang diciptakan-Nya itu dapat kita bandingkan, umpamanya, dengan bentuk dan rupa hewan. Sekalipun jenis makhluk hewan itu tidak ada yang cacat maupun yang janggal menurut penglihatan kita, namun ciptaan dan susunan anatomi tubuh manusia tetap jauh lebih sempurna, indah, dan menarik, dibandingkan dengan segala makhluk hidup yang ada. Dengan merenungkan hal itu, barulah kita menyimpulkan bahwa memang Tuhanlah yang sebaik-baik menentukan.\n\nAyat ini mengandung ajakan bagi manusia untuk berpikir dan menyimpulkan sikap hidupnya terhadap Zat yang menjadikan itu. Apakah tidak patut manusia bersyukur dan berterima kasih kepada-Nya? Apakah tidak selayaknya kalau manusia menanggalkan sikap ingkar dan keras kepalanya setelah ia menyadari sepenuhnya betapa kasih sayang Allah, dan betapa Allah telah membimbing kehidupan ini dengan mengirim rasul-Nya guna mengajarkan ajaran tentang keesaan-Nya?",
+          "24": "Dalam ayat ini, Allah menerangkan bahwa terlepas dari semua itu kalau memang manusia tak mau mengubah tabiat dan karakternya, tetap saja kafir laknat, dan lebih dari itu juga berusaha merongrong kewibawaan Ilahi itu dengan mempersekutukan-Nya dengan makhluk lain ciptaan-Nya, dan sama sekali tidak yakin adanya hari kebangkitan, hari manusia menerima ganjaran amal perbuatan baiknya, maka Tuhan mengancam untuk kedua kalinya, \"Celaka besarlah pada hari itu bagi orang-orang yang mendustakan.\"",
+          "25": "Setelah menyebutkan berbagai rupa nikmat-Nya di sekitar proses kejadian manusia, maka dalam ayat ini, Allah mengajak manusia memperhatikan dengan seksama terhadap nikmat-Nya yang ada di cakrawala ini. Hal ini diungkapkan Allah dengan kalimat pertanyaan, \"Bukankah Kami telah menciptakan bumi yang terhampar dan terbentang begitu luas sebagai tempat berkumpul dan tempat hidup bersama-sama mencari penghidupan.\n\nSecara saintifik, planet bumi ini beserta atmosfernya telah diciptakan Allah dengan benar dan tepat. Bumi kita dan atmosfernya mengandung substansi atau materi yang mendukung adanya proses kehidupan, antara lain adanya gas nitrogen (N2) yang tak berbahaya bagi makhluk hidup, namun sangat dibutuhkan untuk timbulnya suatu proses kehidupan, dan gas oksigen (O2), yang sangat dibutuhkan dalam kelangsungan kehidupan semua makhluk hidup. Oleh sebab itu, di bumi semua kehidupan berkumpul (lebih detail lihat Al-Qur'an dan Tafsirnya Jilid 5 Surah Ibrahim/14:19).",
+          "26": "Kegunaan bumi diciptakan terhampar dan tempat berkumpul bukan saja untuk yang masih hidup yang tinggal di atas permukaannya, melainkan juga bagi yang telah meninggal dunia untuk dikuburkan dalam perutnya. Itulah sebabnya dikatakan bumi untuk orang yang masih hidup dan yang sudah meninggal. Kifat dalam bahasa Arab berarti kuburan bagi yang meninggal dan rumah bagi yang masih hidup.\n\nMenurut para ilmuwan, bagian atas bumi merupakan lempengan-lempengan kulit bumi yang saling berinteraksi satu sama lain dan mengakibatkan terjadinya deformasi kerak bumi yang antara lain dimanifestasikan dengan pembentukan pegunungan, gunung api dan gempa bumi. Pegunungan-pegunungan yang tinggi ikut serta dalam siklus hidrologi dimana air akhirnya tersimpan di daratan dan menjadi sumber air minum manusia dan kehidupan lainnya.",
+          "27": "Selain itu, Allah juga mengarahkan perhatian manusia kepada tujuan penciptaan gunung yang menjulang tinggi dari permukaan bumi. Ia dikatakan sebagai pasak bumi dan dengan demikian, manusia merasa tenteram tinggal di bumi. Gunung itulah yang bertugas sebagai pasak tiang untuk menjaga keseimbangan bumi tersebut. Terkadang sebagian badan gunung-gunung itu terbenam dalam tanah atau dalam laut maupun sungai-sungai.\n\nSelanjutnya Allah mengajak manusia memikirkan tentang air tawar yang diminum setiap hari, sebagai anugerah dari-Nya. Dialah yang menurut ayat ini memberikan minum. Terkadang air itu tercurah dari langit yang dibawa hujan yang berasal dari gumpalan awan atau dari salju mencair dan adakalanya pula mengalir dari anak-anak sungai atau memancar dari mata air, di bawah celah-celah gunung maupun di pinggir kali, dan sebagainya.",
+          "28": "Oleh karena itu, bagi siapa yang masih mendustakan nikmat Allah itu terkena oleh kutukan ayat ini, \"Celaka besarlah pada hari itu bagi orang-orang yang mendustakan.\"",
+          "29": "Dalam ayat ini, Allah menerangkan bahwa orang-orang yang bernasib malang yang hendak dimasukkan ke dalam neraka Jahanam, akan ditegur oleh malaikat penjaga dengan suara keras agar mereka pergi kepada azab dan siksaan yang didustakan ketika masih di dunia dahulu.",
+          "30": "Gumpalan asap neraka itu bercabang tiga. Satu bagian di sebelah kanan, satu cabang di kiri, dan yang ketiga di atas pundak mereka, sehingga mereka terkepung di dalamnya dan tidak dapat keluar lagi. Di dalam ayat yang lain, Allah berfirman:\n\nSesungguhnya Kami telah menyediakan neraka bagi orang zalim, yang gejolaknya mengepung mereka. (al-Kahf/18: 29)",
+          "31": "Allah mengatakan dalam ayat ini bahwa biarpun neraka itu disebutkan punya lindungan namun bukan melindungi mereka dari panasnya api neraka. Tidak ada tempat beristirahat dan tempat berteduh dari kepanasan. Ditegaskan pula di sini bahwa lindungan mereka bukan lindungan seperti yang diperoleh seorang mukmin, karena tidak ada yang dapat menaungi mereka dari panas gejolak api neraka.\n\nAyat lain menerangkan:\n\n(Mereka) dalam siksaan angin yang sangat panas dan air yang mendidih, dan naungan asap yang hitam, tidak sejuk dan tidak menyenangkan. (al-Waqi'ah/56: 42-44)",
+          "32": "Allah menyebutkan pula bahwa neraka itu selalu melontarkan bunga api sebesar dan setinggi istana ke seluruh penjuru. Allah mengumpamakan gejolak api neraka Jahanam yang sangat dahsyat itu dengan unta kuning yang sangat banyak dan bergerak cepat. Allah mengulangi lagi ancamannya bahwa kecelakaan bagi orang yang mendustakan karena mereka tidak dapat mengelakkan diri dari siksaan yang begitu hebat.",
+          "33": "Allah menyebutkan pula bahwa neraka itu selalu melontarkan bunga api sebesar dan setinggi istana ke seluruh penjuru. Allah mengumpamakan gejolak api neraka Jahanam yang sangat dahsyat itu dengan unta kuning yang sangat banyak dan bergerak cepat. Allah mengulangi lagi ancamannya bahwa kecelakaan bagi orang yang mendustakan karena mereka tidak dapat mengelakkan diri dari siksaan yang begitu hebat.",
+          "34": "Allah menyebutkan pula bahwa neraka itu selalu melontarkan bunga api sebesar dan setinggi istana ke seluruh penjuru. Allah mengumpamakan gejolak api neraka Jahanam yang sangat dahsyat itu dengan unta kuning yang sangat banyak dan bergerak cepat. Allah mengulangi lagi ancamannya bahwa kecelakaan bagi orang yang mendustakan karena mereka tidak dapat mengelakkan diri dari siksaan yang begitu hebat.",
+          "35": "Dalam ayat ini, Allah menerangkan bahwa pada hari itu manusia tidak bisa berbicara dan hanya terpukau karena kedahsyatan keadaan. Mereka tidak diizinkan berbicara, dan andaikata diizinkan pun, hal itu tidak ada gunanya.",
+          "36": "Allah selanjutnya menerangkan bahwa mereka tidak diizinkan untuk minta uzur, sebab hari itu bukanlah hari pembelaan diri, tetapi hari untuk menerima keputusan. Mereka dapat mengeluh dan menyesali nasib, namun untuk mengajukan sanggahan tidak mungkin lagi karena keputusan Allah tidak dapat diganggu gugat. Dalam Surah al-An'am/6: 23, orang musyrik di hari itu menyatakan bahwa mereka tidak mau musyrik lagi. Pada Surah an-Nisa'/4: 42 disebutkan bahwa mereka tidak bisa menyembunyikan pembicaraannya, dan dalam ayat az-Zumar/39: 31 disebutkan mereka orang-orang kafir berdebat di muka Allah, saling menuduh, dan saling menyalahkan.",
+          "37": "Dalam ayat ini, Allah mengulangi lagi ancaman-Nya bahwa kecelakaan besar di hari itu bagi orang yang mendustakan. Sebab rasul telah mengajak mereka supaya beriman dan mengancam dengan memperingatkan mereka dengan akan datangnya azab yang mereka hadapi itu. Sayang mereka tidak mau menerima dan mendengarkan ajakan itu.",
+          "38": "Allah menerangkan bahwa hari ini adalah hari keputusan. Inilah hari yang memisahkan antara kebenaran dan kebatilan, hari ketika diungkapkan kebenaran dan kepalsuan seseorang.\n\nDi hari itu, Allah menghimpun semua manusia yang pernah hidup di dunia ini sejak zaman Nabi Adam sampai akhir masa pada tempat yang satu. Tujuannya untuk memberikan suatu keputusan hukum buat mereka siapa yang salah dan siapa yang benar, sehingga masing-masing orang memperoleh haknya.",
+          "39": "Dalam ayat ini, Allah menantang dengan cara mengejek orang-orang kafir dan orang-orang yang merasa mempunyai kekuatan membela diri, untuk menggunakan kepandaian dan tipu dayanya guna menyelamatkan diri dari siksaan-Nya.\n\nSelain itu, ayat ini memberikan suatu pelajaran keras bagi orang-orang yang menentang agama Islam, yang selalu menipu dan mempermainkan orang-orang yang beriman bahwa kelak pada saatnya mereka akan mengetahui betapa lemahnya alasan mereka yang suka mengolok-olokkan agama itu.",
+          "40": "Allah mengulangi lagi ancaman-Nya bahwa kecelakaan besar di hari kebangkitan bagi orang-orang yang mendustakan-Nya. Kecelakaan buat mereka di hari kebangkitan karena waktu itulah terbukti kelemahan dan mereka berhadapan dengan Allah yang mereka dustai. Pada saat seperti itu terbukti betapa batalnya dakwaan yang mereka yakini selama ini.",
+          "41": "Dalam ayat ini dan ayat berikutnya Allah menerangkan berbagai kenikmatan buat orang-orang yang bertakwa yaitu naungan surga yang berada di (sekitar) mata air, di bawah pohon rindang yang mengalir anak-anak sungai di bawahnya, tidak pernah mereka merasakan udara panas dan gejolak api yang membakar. Dalam ayat ini, Allah berfirman:\n\nMereka dan pasangan-pasangannya berada dalam tempat yang teduh, bersandar di atas dipan-dipan. (Yasin/36: 56)",
+          "42": "Dalam ayat ini, Allah menerangkan bahwa di dalam surga terdapat anak sungai, berbagai jenis buah-buahan yang cita rasanya manis dan lezat, boleh dipetik dan dimakan kapan saja dikehendaki tanpa ada yang mengganggu. Bagi yang memakannya tidak perlu takut dan khawatir akan menimbulkan penyakit kalau terlalu banyak memakannya.",
+          "43": "Penduduk surga diterima dengan sambutan yang ramah dari penjaganya, yang mengatakan bahwa orang yang berbuat baik di dunia dahulu, dibolehkan menikmati segala buah-buahan dan minuman yang telah tersedia selama-lamanya. Mereka tidak akan sakit dan tidak pula perlu khawatir akan habis. Inilah balasan terhadap segala jerih payah mereka dulu dengan beramal menaati Allah, berjuang bersungguh-sungguh mendekatkan diri kepada-Nya.",
+          "44": "Selanjutnya Allah menerangkan bahwa semua kenikmatan itu merupakan pemberian dari-Nya sebagai pembalasan bagi orang yang bertakwa, dan orang yang senantiasa mengamalkan kebaikan dengan dasar dan menghambakan diri kepada-Nya. Tidak ada kebaikan yang luput dari pembalasan pahala Allah sebagaimana disebutkan dalam ayat lain:\n\nSungguh, mereka yang beriman dan mengerjakan kebajikan, Kami benar-benar tidak akan menyia-nyiakan pahala orang yang mengerjakan perbuatan yang baik itu. (al-Kahf/18: 30)",
+          "45": "Dalam ayat ini sekali lagi Allah mengutuk orang-orang yang mendustakan-Nya, \"Kecelakaan bagi orang-orang yang mendustakan (Kami) pada hari itu.\" Kecelakaan bagi mereka karena mendustakan apa yang telah diberikan Allah, yaitu kemuliaan orang bertakwa dan dengan kehinaan mereka pada hari Kiamat. Sungguh sial nasib orang yang mendustakan itu.",
+          "46": "Kemudian dalam ayat ini Allah berseru dan mengancam dengan firman-Nya agar mereka makan dan menikmati sisa-sisa kesenangan hidup di dunia yang tinggal sedikit itu, sebab kelak pada waktunya Allah akan memberlakukan sunah berupa kedatangan siksa dan azab buat mereka seperti berulang-ulang dijatuhkan pada bangsa-bangsa sebelum mereka.",
+          "47": "Allah lalu mengulangi lagi celaan dan ancaman-Nya kepada orang yang mendustakan-Nya. Mereka telah melakukan suatu perbuatan yang menyebabkan diri mereka terbenam dalam azab dan kesengsaraan abadi. Padahal di dunia mereka cuma menikmati kesenangan yang sangat sedikit dan tiada lama waktunya.",
+          "48": "Diriwayatkan bahwa ayat ini turun ketika Rasulullah saw berdakwah menyuruh penduduk negeri Saqif, suatu negeri yang tidak jauh dari Mekah untuk salat menyembah Allah. Mereka menjawab dengan sombong, \"Kami tak akan ruku' (salat) karena bukan merupakan suatu kebiasaan kami.\" Nabi menjawab bahwa tidak ada kebaikan bagi suatu agama yang tidak ada padanya ruku' dan sujud. Ada yang mengatakan perintah ini adalah ketika orang-orang kafir disuruh sujud di hadapan Allah di hari akhirat, mereka tak sanggup melakukannya, sebab tidak biasa mengerjakan di atas dunia.\n\nAllah menyatakan bahwa mereka diperintahkan ruku' (mengerjakan salat), tetapi mereka enggan. Apabila disuruh patuh dan taat serta takut kepada Allah dan pada hari yang di waktu itu semua mata tunduk karena takut, mereka bersikap keras kepala.",
+          "49": "Sebagai penutup dari dua ayat terakhir ini, Allah mengulang kembali kutukan-Nya terhadap orang-orang yang mendustakan perintah dan larangan-Nya. Kecelakaan besar bagi orang yang mendustakan karena tidak patuh kepada perintah-Nya dan tidak mau meninggalkan larangan-Nya.\n\nSetelah mencela orang kafir dengan sangat keras agar mengikuti agama yang benar, maka Allah mengakhiri surah ini dengan menegaskan bahwa orang-orang musyrik itu sama sekali tidak mau mendengarkan nasihat para dai yang mengajak mereka untuk mengikuti ajaran Ilahi bagi kepentingan kehidupan mereka di dunia dan akhirat. Allah mengatakan, \"Maka kepada perkataan apakah selain Al-Qur'an mereka akan beriman?\" Jadi dengan keterangan-keterangan Al-Qur'an yang begitu jelas dan mudah dimengerti disertai dengan bukti-bukti yang jelas, mereka tidak juga mau beriman, maka manakah lagi kebenaran yang mampu membawa mereka kepada petunjuk Ilahi?\"\n\nDari ayat terakhir ini jelaslah bahwa Allah telah menetapkan ajaran Al-Qur'an tentang dunia dan akhirat yang menghimpun sekalian keterangan yang ada, lengkap dengan segala seluk-beluknya sebagai alasan yang kuat. Dengan demikian, Al-Qur'an satu-satunya kitab suci yang dikenal manusia yang mengandung keterangan yang begitu jelas dan lengkap. Hanya manusia tidak mau beriman menjelang ajal datang mencabut kehidupannya.",
+          "50": "Sebagai penutup dari dua ayat terakhir ini, Allah mengulang kembali kutukan-Nya terhadap orang-orang yang mendustakan perintah dan larangan-Nya. Kecelakaan besar bagi orang yang mendustakan karena tidak patuh kepada perintah-Nya dan tidak mau meninggalkan larangan-Nya.\n\nSetelah mencela orang kafir dengan sangat keras agar mengikuti agama yang benar, maka Allah mengakhiri surah ini dengan menegaskan bahwa orang-orang musyrik itu sama sekali tidak mau mendengarkan nasihat para dai yang mengajak mereka untuk mengikuti ajaran Ilahi bagi kepentingan kehidupan mereka di dunia dan akhirat. Allah mengatakan, \"Maka kepada perkataan apakah selain Al-Qur'an mereka akan beriman?\" Jadi dengan keterangan-keterangan Al-Qur'an yang begitu jelas dan mudah dimengerti disertai dengan bukti-bukti yang jelas, mereka tidak juga mau beriman, maka manakah lagi kebenaran yang mampu membawa mereka kepada petunjuk Ilahi?\"\n\nDari ayat terakhir ini jelaslah bahwa Allah telah menetapkan ajaran Al-Qur'an tentang dunia dan akhirat yang menghimpun sekalian keterangan yang ada, lengkap dengan segala seluk-beluknya sebagai alasan yang kuat. Dengan demikian, Al-Qur'an satu-satunya kitab suci yang dikenal manusia yang mengandung keterangan yang begitu jelas dan lengkap. Hanya manusia tidak mau beriman menjelang ajal datang mencabut kehidupannya."
+        }
+      }
+    }
+  }
+}

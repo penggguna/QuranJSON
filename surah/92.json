@@ -1,0 +1,159 @@
+{
+  "name": "Al-Lail",
+  "name_translations": {
+    "ar": "الليل",
+    "en": "The Night",
+    "id": "Malam"
+  },
+  "number_of_ayah": 21,
+  "number_of_surah": 92,
+  "place": "Mecca",
+  "recitations": [{
+    "name": "Mishari Rashid al-`Afasy",
+    "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/undefined.mp3"
+  }, {
+    "name": "Abdur-Rahman as-Sudais",
+    "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/undefined.mp3"
+  }, {
+    "name": "Saad al-Ghamdi",
+    "audio_url": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/undefined.mp3"
+  }],
+  "type": "Makkiyah",
+  "verses": [{
+    "number": 1,
+    "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ وَٱلَّيْلِ إِذَا يَغْشَىٰ",
+    "translation_en": "By the night when it covers",
+    "translation_id": "Demi malam apabila menutupi (cahaya siang),"
+  }, {
+    "number": 2,
+    "text": "وَٱلنَّهَارِ إِذَا تَجَلَّىٰ",
+    "translation_en": "And [by] the day when it appears",
+    "translation_id": "dan siang apabila terang benderang,"
+  }, {
+    "number": 3,
+    "text": "وَمَا خَلَقَ ٱلذَّكَرَ وَٱلْأُنثَىٰٓ",
+    "translation_en": "And [by] He who created the male and female,",
+    "translation_id": "dan penciptaan laki-laki dan perempuan,"
+  }, {
+    "number": 4,
+    "text": "إِنَّ سَعْيَكُمْ لَشَتَّىٰ",
+    "translation_en": "Indeed, your efforts are diverse.",
+    "translation_id": "sesungguhnya usaha kamu memang berbeda-beda."
+  }, {
+    "number": 5,
+    "text": "فَأَمَّا مَنْ أَعْطَىٰ وَٱتَّقَىٰ",
+    "translation_en": "As for he who gives and fears Allah",
+    "translation_id": "Adapun orang yang memberikan (hartanya di jalan Allah) dan bertakwa,"
+  }, {
+    "number": 6,
+    "text": "وَصَدَّقَ بِٱلْحُسْنَىٰ",
+    "translation_en": "And believes in the best [reward],",
+    "translation_id": "dan membenarkan adanya pahala yang terbaik (surga),"
+  }, {
+    "number": 7,
+    "text": "فَسَنُيَسِّرُهُۥ لِلْيُسْرَىٰ",
+    "translation_en": "We will ease him toward ease.",
+    "translation_id": "maka Kami kelak akan menyiapkan baginya jalan yang mudah."
+  }, {
+    "number": 8,
+    "text": "وَأَمَّا مَنۢ بَخِلَ وَٱسْتَغْنَىٰ",
+    "translation_en": "But as for he who withholds and considers himself free of need",
+    "translation_id": "Dan adapun orang-orang yang bakhil dan merasa dirinya cukup,"
+  }, {
+    "number": 9,
+    "text": "وَكَذَّبَ بِٱلْحُسْنَىٰ",
+    "translation_en": "And denies the best [reward],",
+    "translation_id": "serta mendustakan pahala terbaik,"
+  }, {
+    "number": 10,
+    "text": "فَسَنُيَسِّرُهُۥ لِلْعُسْرَىٰ",
+    "translation_en": "We will ease him toward difficulty.",
+    "translation_id": "maka kelak Kami akan menyiapkan baginya (jalan) yang sukar."
+  }, {
+    "number": 11,
+    "text": "وَمَا يُغْنِى عَنْهُ مَالُهُۥٓ إِذَا تَرَدَّىٰٓ",
+    "translation_en": "And what will his wealth avail him when he falls?",
+    "translation_id": "Dan hartanya tidak bermanfaat baginya apabila ia telah binasa."
+  }, {
+    "number": 12,
+    "text": "إِنَّ عَلَيْنَا لَلْهُدَىٰ",
+    "translation_en": "Indeed, [incumbent] upon Us is guidance.",
+    "translation_id": "Sesungguhnya kewajiban Kamilah memberi petunjuk,"
+  }, {
+    "number": 13,
+    "text": "وَإِنَّ لَنَا لَلْءَاخِرَةَ وَٱلْأُولَىٰ",
+    "translation_en": "And indeed, to Us belongs the Hereafter and the first [life].",
+    "translation_id": "dan sesungguhnya kepunyaan Kamilah akhirat dan dunia."
+  }, {
+    "number": 14,
+    "text": "فَأَنذَرْتُكُمْ نَارًا تَلَظَّىٰ",
+    "translation_en": "So I have warned you of a Fire which is blazing.",
+    "translation_id": "Maka, kami memperingatkan kamu dengan neraka yang menyala-nyala."
+  }, {
+    "number": 15,
+    "text": "لَا يَصْلَىٰهَآ إِلَّا ٱلْأَشْقَى",
+    "translation_en": "None will [enter to] burn therein except the most wretched one.",
+    "translation_id": "Tidak ada yang masuk ke dalamnya kecuali orang yang paling celaka,"
+  }, {
+    "number": 16,
+    "text": "ٱلَّذِى كَذَّبَ وَتَوَلَّىٰ",
+    "translation_en": "Who had denied and turned away.",
+    "translation_id": "yang mendustakan (kebenaran) dan berpaling (dari iman)."
+  }, {
+    "number": 17,
+    "text": "وَسَيُجَنَّبُهَا ٱلْأَتْقَى",
+    "translation_en": "But the righteous one will avoid it -",
+    "translation_id": "Dan kelak akan dijauhkan orang yang paling takwa dari neraka itu,"
+  }, {
+    "number": 18,
+    "text": "ٱلَّذِى يُؤْتِى مَالَهُۥ يَتَزَكَّىٰ",
+    "translation_en": "[He] who gives [from] his wealth to purify himself",
+    "translation_id": "yang menafkahkan hartanya (di jalan Allah) untuk membersihkannya,"
+  }, {
+    "number": 19,
+    "text": "وَمَا لِأَحَدٍ عِندَهُۥ مِن نِّعْمَةٍ تُجْزَىٰٓ",
+    "translation_en": "And not [giving] for anyone who has [done him] a favor to be rewarded",
+    "translation_id": "padahal tidak ada seseorangpun memberikan suatu nikmat kepadanya yang harus dibalasnya,"
+  }, {
+    "number": 20,
+    "text": "إِلَّا ٱبْتِغَآءَ وَجْهِ رَبِّهِ ٱلْأَعْلَىٰ",
+    "translation_en": "But only seeking the countenance of his Lord, Most High.",
+    "translation_id": "tetapi (dia memberikan itu semata-mata) karena mencari keridhaan Tuhannya yang Maha Tinggi."
+  }, {
+    "number": 21,
+    "text": "وَلَسَوْفَ يَرْضَىٰ",
+    "translation_en": "And he is going to be satisfied.",
+    "translation_id": "Dan kelak dia benar-benar mendapat kepuasan."
+  }],
+  "tafsir": {
+    "id": {
+      "kemenag": {
+        "name": "Kemenag",
+        "source": "Aplikasi Quran Kementrian Agama Republik Indonesia",
+        "text": {
+          "1": "Allah bersumpah dengan malam apabila menutupi, yaitu ketika malam sudah merata menutupi alam ini. Ini adalah waktu isya yaitu ketika cahaya merah sudah hilang di ufuk barat. Waktu itu manusia pada umumnya sudah mengakhiri aktivitasnya, dan ingin istirahat dan pergi tidur. Kemudian Allah bersumpah dengan aktivitas alam sebaliknya, yaitu siang ketika terang benderang. Waktu itu adalah waktu duha ketika cahaya matahari sudah merata menyinari alam ini, yang kontras dengan malam yang baru saja berakhir, dan manusia mulai bekerja.",
+          "2": "Allah bersumpah dengan malam apabila menutupi, yaitu ketika malam sudah merata menutupi alam ini. Ini adalah waktu isya yaitu ketika cahaya merah sudah hilang di ufuk barat. Waktu itu manusia pada umumnya sudah mengakhiri aktivitasnya, dan ingin istirahat dan pergi tidur. Kemudian Allah bersumpah dengan aktivitas alam sebaliknya, yaitu siang ketika terang benderang. Waktu itu adalah waktu duha ketika cahaya matahari sudah merata menyinari alam ini, yang kontras dengan malam yang baru saja berakhir, dan manusia mulai bekerja.",
+          "3": "Selanjutnya, Allah bersumpah dengan laki-laki dan perempuan yang telah diciptakan-Nya. Ini adalah juga dua makhluk yang berlawanan jenis dan kodratnya.",
+          "4": "Setelah bersumpah dengan dua-dua makhluk-Nya yang berlawanan jenis dan sifatnya, Allah menegaskan bahwa perbuatan atau tingkah laku manusia itu memang bermacam-macam. Perbedaan itu terjadi karena perbedaan kemauannya, apakah mengikuti potensi positifnya ataukah mengikuti potensi negatifnya.",
+          "5": "Dalam ayat ini, Allah menerangkan adanya tiga tingkah laku manusia. Pertama, suka memberi, yaitu menolong antara sesama manusia. Ia tidak hanya mengeluarkan zakat kekayaannya, yang merupakan kewajiban, tetapi juga berinfak, bersedekah, dan sebagainya yang bukan wajib. Kedua, bertakwa, yaitu takut mengabaikan perintah-Nya atau melanggar larangan-Nya. \n\nKetiga, membenarkan kebaikan Allah, yaitu mengakui nikmat-nikmat yang telah diberikan kepadanya lalu mensyukurinya. Nikmat terbesar Allah yang ia akui adalah surga. Oleh karena itu, ia tidak segan-segan beramal di dunia untuk memperolehnya, di antaranya membantu antara sesama manusia.\n\nKepada mereka yang melakukan tiga aspek perbuatan baik di atas, Allah akan memberikan kemudahan bagi mereka, yaitu kemudahan untuk memperoleh keberuntungan di dunia maupun di akhirat.",
+          "6": "Dalam ayat ini, Allah menerangkan adanya tiga tingkah laku manusia. Pertama, suka memberi, yaitu menolong antara sesama manusia. Ia tidak hanya mengeluarkan zakat kekayaannya, yang merupakan kewajiban, tetapi juga berinfak, bersedekah, dan sebagainya yang bukan wajib. Kedua, bertakwa, yaitu takut mengabaikan perintah-Nya atau melanggar larangan-Nya. \n\nKetiga, membenarkan kebaikan Allah, yaitu mengakui nikmat-nikmat yang telah diberikan kepadanya lalu mensyukurinya. Nikmat terbesar Allah yang ia akui adalah surga. Oleh karena itu, ia tidak segan-segan beramal di dunia untuk memperolehnya, di antaranya membantu antara sesama manusia.\n\nKepada mereka yang melakukan tiga aspek perbuatan baik di atas, Allah akan memberikan kemudahan bagi mereka, yaitu kemudahan untuk memperoleh keberuntungan di dunia maupun di akhirat.",
+          "7": "Dalam ayat ini, Allah menerangkan adanya tiga tingkah laku manusia. Pertama, suka memberi, yaitu menolong antara sesama manusia. Ia tidak hanya mengeluarkan zakat kekayaannya, yang merupakan kewajiban, tetapi juga berinfak, bersedekah, dan sebagainya yang bukan wajib. Kedua, bertakwa, yaitu takut mengabaikan perintah-Nya atau melanggar larangan-Nya. \n\nKetiga, membenarkan kebaikan Allah, yaitu mengakui nikmat-nikmat yang telah diberikan kepadanya lalu mensyukurinya. Nikmat terbesar Allah yang ia akui adalah surga. Oleh karena itu, ia tidak segan-segan beramal di dunia untuk memperolehnya, di antaranya membantu antara sesama manusia.\n\nKepada mereka yang melakukan tiga aspek perbuatan baik di atas, Allah akan memberikan kemudahan bagi mereka, yaitu kemudahan untuk memperoleh keberuntungan di dunia maupun di akhirat.",
+          "8": "Sebaliknya, ada manusia yang bertingkah laku sebaliknya. Ia bakhil, pelit, tidak mau menolong antar sesama, apalagi mengeluarkan kewajibannya yaitu zakat. Di samping itu, ia sudah merasa cukup segala-galanya. Oleh karena itu, ia merasa tidak memerlukan orang lain bahkan Allah. Akibatnya, ia sombong dan tidak mengakui nikmat-nikmat Allah yang telah ia terima dan tidak mengharapkan nikmat-nikmat itu. Akibatnya ia tidak mengindahkan aturan-aturan Allah. Orang itu akan dimudahkan Allah menuju kesulitan, baik kesulitan di dunia maupun di akhirat. Kesulitan di dunia misalnya kejatuhan, penyakit, kecelakaan, musibah, dan sebagainya. Kesulitan di akhirat adalah ketersiksaan yang puncaknya adalah neraka.\n\nManusia, bila sudah mati tanpa memiliki amal dan kemudian masuk neraka di akhirat, maka harta benda dan kekayaan mereka tidak berguna apa pun. Hal itu karena harta itu tidak akan bisa digunakan untuk menebus dosa-dosa mereka.",
+          "9": "Sebaliknya, ada manusia yang bertingkah laku sebaliknya. Ia bakhil, pelit, tidak mau menolong antar sesama, apalagi mengeluarkan kewajibannya yaitu zakat. Di samping itu, ia sudah merasa cukup segala-galanya. Oleh karena itu, ia merasa tidak memerlukan orang lain bahkan Allah. Akibatnya, ia sombong dan tidak mengakui nikmat-nikmat Allah yang telah ia terima dan tidak mengharapkan nikmat-nikmat itu. Akibatnya ia tidak mengindahkan aturan-aturan Allah. Orang itu akan dimudahkan Allah menuju kesulitan, baik kesulitan di dunia maupun di akhirat. Kesulitan di dunia misalnya kejatuhan, penyakit, kecelakaan, musibah, dan sebagainya. Kesulitan di akhirat adalah ketersiksaan yang puncaknya adalah neraka.\n\nManusia, bila sudah mati tanpa memiliki amal dan kemudian masuk neraka di akhirat, maka harta benda dan kekayaan mereka tidak berguna apa pun. Hal itu karena harta itu tidak akan bisa digunakan untuk menebus dosa-dosa mereka.",
+          "10": "Sebaliknya, ada manusia yang bertingkah laku sebaliknya. Ia bakhil, pelit, tidak mau menolong antar sesama, apalagi mengeluarkan kewajibannya yaitu zakat. Di samping itu, ia sudah merasa cukup segala-galanya. Oleh karena itu, ia merasa tidak memerlukan orang lain bahkan Allah. Akibatnya, ia sombong dan tidak mengakui nikmat-nikmat Allah yang telah ia terima dan tidak mengharapkan nikmat-nikmat itu. Akibatnya ia tidak mengindahkan aturan-aturan Allah. Orang itu akan dimudahkan Allah menuju kesulitan, baik kesulitan di dunia maupun di akhirat. Kesulitan di dunia misalnya kejatuhan, penyakit, kecelakaan, musibah, dan sebagainya. Kesulitan di akhirat adalah ketersiksaan yang puncaknya adalah neraka.\n\nManusia, bila sudah mati tanpa memiliki amal dan kemudian masuk neraka di akhirat, maka harta benda dan kekayaan mereka tidak berguna apa pun. Hal itu karena harta itu tidak akan bisa digunakan untuk menebus dosa-dosa mereka.",
+          "11": "Sebaliknya, ada manusia yang bertingkah laku sebaliknya. Ia bakhil, pelit, tidak mau menolong antar sesama, apalagi mengeluarkan kewajibannya yaitu zakat. Di samping itu, ia sudah merasa cukup segala-galanya. Oleh karena itu, ia merasa tidak memerlukan orang lain bahkan Allah. Akibatnya, ia sombong dan tidak mengakui nikmat-nikmat Allah yang telah ia terima dan tidak mengharapkan nikmat-nikmat itu. Akibatnya ia tidak mengindahkan aturan-aturan Allah. Orang itu akan dimudahkan Allah menuju kesulitan, baik kesulitan di dunia maupun di akhirat. Kesulitan di dunia misalnya kejatuhan, penyakit, kecelakaan, musibah, dan sebagainya. Kesulitan di akhirat adalah ketersiksaan yang puncaknya adalah neraka.\n\nManusia, bila sudah mati tanpa memiliki amal dan kemudian masuk neraka di akhirat, maka harta benda dan kekayaan mereka tidak berguna apa pun. Hal itu karena harta itu tidak akan bisa digunakan untuk menebus dosa-dosa mereka.",
+          "12": "Allah menegaskan bahwa Ia berkewajiban menunjuki manusia mana jalan yang benar dan mana jalan yang salah, mana yang baik dan mana yang buruk, sebagaimana dinyatakan-Nya dalam ayat lain:\n\nDan apabila orang-orang yang beriman kepada ayat-ayat Kami datang kepadamu, maka katakanlah, \"Salamun 'alaikum (selamat sejahtera untuk kamu).\" Tuhanmu telah menetapkan sifat kasih sayang pada diri-Nya, (yaitu) barang siapa berbuat kejahatan di antara kamu karena kebodohan, kemudian dia bertobat setelah itu dan memperbaiki diri, maka Dia Maha Pengampun, Maha Penyayang. (al-An'am/6: 54)",
+          "13": "Allah juga pemilik alam ini, baik alam akhirat maupun alam dunia. Bila Allah pemilik segala-galanya, maka tiada jalan bagi manusia selain meminta semuanya itu kepada-Nya dengan jalan mengimani dan bertakwa kepada-Nya.",
+          "14": "Di samping Allah telah menunjuki manusia jalan yang benar, Ia juga memperingatkan manusia tentang adanya neraka yang senantiasa menyala-nyala. Penghuni neraka itu adalah mereka yang paling durhaka, yaitu orang-orang yang senantiasa memandang dusta wahyu-wahyu yang disampaikan kepadanya, dan karena itu tidak mau mengimaninya dan menjalankannya.",
+          "15": "Di samping Allah telah menunjuki manusia jalan yang benar, Ia juga memperingatkan manusia tentang adanya neraka yang senantiasa menyala-nyala. Penghuni neraka itu adalah mereka yang paling durhaka, yaitu orang-orang yang senantiasa memandang dusta wahyu-wahyu yang disampaikan kepadanya, dan karena itu tidak mau mengimaninya dan menjalankannya.",
+          "16": "Di samping Allah telah menunjuki manusia jalan yang benar, Ia juga memperingatkan manusia tentang adanya neraka yang senantiasa menyala-nyala. Penghuni neraka itu adalah mereka yang paling durhaka, yaitu orang-orang yang senantiasa memandang dusta wahyu-wahyu yang disampaikan kepadanya, dan karena itu tidak mau mengimaninya dan menjalankannya.",
+          "17": "Sebaliknya adalah orang yang takwa, yaitu orang yang memberikan kekayaannya untuk membantu orang lain untuk menyucikan dirinya. Orang yang takwa itu akan terjauh dari neraka. Contoh orang yang paling takwa adalah Abu Bakar as-siddiq yang telah menggunakan seluruh kekayaannya untuk memerdekakan orang-orang lemah dan perempuan-perempuan yang masuk Islam dan membantu mereka.",
+          "18": "Sebaliknya adalah orang yang takwa, yaitu orang yang memberikan kekayaannya untuk membantu orang lain untuk menyucikan dirinya. Orang yang takwa itu akan terjauh dari neraka. Contoh orang yang paling takwa adalah Abu Bakar as-siddiq yang telah menggunakan seluruh kekayaannya untuk memerdekakan orang-orang lemah dan perempuan-perempuan yang masuk Islam dan membantu mereka.",
+          "19": "Orang-orang yang bertakwa membantu orang lain bukan karena orang itu berjasa kepadanya yang karena itu ia perlu membalasnya. Ia membantu orang itu semata-mata karena mengharapkan rida dan surga Allah di akhirat.",
+          "20": "Orang-orang yang bertakwa membantu orang lain bukan karena orang itu berjasa kepadanya yang karena itu ia perlu membalasnya. Ia membantu orang itu semata-mata karena mengharapkan rida dan surga Allah di akhirat.",
+          "21": "Orang takwa yang membantu orang lain untuk mencari rida Allah itu akhirnya akan memperolehnya. Orang itu terjauh dari neraka, dan pasti masuk surga."
+        }
+      }
+    }
+  }
+}

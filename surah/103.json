@@ -1,35 +1,40 @@
 {
-  "number": "103",
+  "name": "Al-Asr",
+  "name_translations": {
+    "ar": "العصر",
+    "en": "The Declining Day, Epoch",
+    "id": "Asar"
+  },
+  "number_of_ayah": 3,
+  "number_of_surah": 103,
   "place": "Mecca",
-  "type": "Makkiyah",
-  "count": 3,
-  "title": "Al-Asr",
-  "titleAr": "العصر",
   "recitations": [{
     "name": "Mishari Rashid al-`Afasy",
-    "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/103.mp3"
+    "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/undefined.mp3"
   }, {
     "name": "Abdur-Rahman as-Sudais",
-    "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/103.mp3"
+    "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/undefined.mp3"
   }, {
     "name": "Saad al-Ghamdi",
-    "audio_url": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/103.mp3"
+    "audio_url": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/undefined.mp3"
   }],
-  "text": {
-    "1": "وَالْعَصْرِۙ",
-    "2": "اِنَّ الْاِنْسَانَ لَفِيْ خُسْرٍۙ",
-    "3": "اِلَّا الَّذِيْنَ اٰمَنُوْا وَعَمِلُوا الصّٰلِحٰتِ وَتَوَاصَوْا بِالْحَقِّ ەۙ وَتَوَاصَوْا بِالصَّبْرِ ࣖ"
-  },
-  "translations": {
-    "id": {
-      "name": "Asar",
-      "text": {
-        "1": "Demi masa,",
-        "2": "sungguh, manusia berada dalam kerugian,",
-        "3": "kecuali orang-orang yang beriman dan mengerjakan kebajikan serta saling menasihati untuk kebenaran dan saling menasihati untuk kesabaran."
-      }
-    }
-  },
+  "type": "Makkiyah",
+  "verses": [{
+    "number": 1,
+    "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ وَٱلْعَصْرِ",
+    "translation_en": "By time,",
+    "translation_id": "Demi masa."
+  }, {
+    "number": 2,
+    "text": "إِنَّ ٱلْإِنسَٰنَ لَفِى خُسْرٍ",
+    "translation_en": "Indeed, mankind is in loss,",
+    "translation_id": "Sesungguhnya manusia itu benar-benar dalam kerugian,"
+  }, {
+    "number": 3,
+    "text": "إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَتَوَاصَوْا۟ بِٱلْحَقِّ وَتَوَاصَوْا۟ بِٱلصَّبْرِ",
+    "translation_en": "Except for those who have believed and done righteous deeds and advised each other to truth and advised each other to patience.",
+    "translation_id": "kecuali orang-orang yang beriman dan mengerjakan amal saleh dan nasehat menasehati supaya mentaati kebenaran dan nasehat menasehati supaya menetapi kesabaran."
+  }],
   "tafsir": {
     "id": {
       "kemenag": {

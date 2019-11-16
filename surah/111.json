@@ -1,39 +1,50 @@
 {
-  "number": "111",
+  "name": "Al-Masad",
+  "name_translations": {
+    "ar": "المسد",
+    "en": "The Palm Fibre",
+    "id": "Api Yang Bergejolak"
+  },
+  "number_of_ayah": 5,
+  "number_of_surah": 111,
   "place": "Mecca",
-  "type": "Makkiyah",
-  "count": 5,
-  "title": "Al-Masad",
-  "titleAr": "المسد",
   "recitations": [{
     "name": "Mishari Rashid al-`Afasy",
-    "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/111.mp3"
+    "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/undefined.mp3"
   }, {
     "name": "Abdur-Rahman as-Sudais",
-    "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/111.mp3"
+    "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/undefined.mp3"
   }, {
     "name": "Saad al-Ghamdi",
-    "audio_url": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/111.mp3"
+    "audio_url": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/undefined.mp3"
   }],
-  "text": {
-    "1": "تَبَّتْ يَدَآ اَبِيْ لَهَبٍ وَّتَبَّۗ",
-    "2": "مَآ اَغْنٰى عَنْهُ مَالُهٗ وَمَا كَسَبَۗ",
-    "3": "سَيَصْلٰى نَارًا ذَاتَ لَهَبٍۙ",
-    "4": "وَّامْرَاَتُهٗ ۗحَمَّالَةَ الْحَطَبِۚ",
-    "5": "فِيْ جِيْدِهَا حَبْلٌ مِّنْ مَّسَدٍ ࣖ"
-  },
-  "translations": {
-    "id": {
-      "name": "Api Yang Bergejolak",
-      "text": {
-        "1": "Binasalah kedua tangan Abu Lahab dan benar-benar binasa dia!",
-        "2": "Tidaklah berguna baginya hartanya dan apa yang dia usahakan.",
-        "3": "Kelak dia akan masuk ke dalam api yang bergejolak (neraka).",
-        "4": "Dan (begitu pula) istrinya, pembawa kayu bakar (penyebar fitnah). ",
-        "5": "Di lehernya ada tali dari sabut yang dipintal."
-      }
-    }
-  },
+  "type": "Makkiyah",
+  "verses": [{
+    "number": 1,
+    "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ تَبَّتْ يَدَآ أَبِى لَهَبٍ وَتَبَّ",
+    "translation_en": "May the hands of Abu Lahab be ruined, and ruined is he.",
+    "translation_id": "Binasalah kedua tangan Abu Lahab dan sesungguhnya dia akan binasa."
+  }, {
+    "number": 2,
+    "text": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+    "translation_en": "His wealth will not avail him or that which he gained.",
+    "translation_id": "Tidaklah berfaedah kepadanya harta bendanya dan apa yang ia usahakan."
+  }, {
+    "number": 3,
+    "text": "سَيَصْلَىٰ نَارًا ذَاتَ لَهَبٍ",
+    "translation_en": "He will [enter to] burn in a Fire of [blazing] flame",
+    "translation_id": "Kelak dia akan masuk ke dalam api yang bergejolak."
+  }, {
+    "number": 4,
+    "text": "وَٱمْرَأَتُهُۥ حَمَّالَةَ ٱلْحَطَبِ",
+    "translation_en": "And his wife [as well] - the carrier of firewood.",
+    "translation_id": "Dan (begitu pula) istrinya, pembawa kayu bakar."
+  }, {
+    "number": 5,
+    "text": "فِى جِيدِهَا حَبْلٌ مِّن مَّسَدٍۭ",
+    "translation_en": "Around her neck is a rope of [twisted] fiber.",
+    "translation_id": "Yang di lehernya ada tali dari sabut."
+  }],
   "tafsir": {
     "id": {
       "kemenag": {

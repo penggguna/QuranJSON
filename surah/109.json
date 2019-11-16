@@ -1,41 +1,55 @@
 {
-  "number": "109",
+  "name": "Al-Kafirun",
+  "name_translations": {
+    "ar": "الكافرون",
+    "en": "The Disbelievers",
+    "id": "Orang-Orang kafir"
+  },
+  "number_of_ayah": 6,
+  "number_of_surah": 109,
   "place": "Mecca",
-  "type": "Makkiyah",
-  "count": 6,
-  "title": "Al-Kafirun",
-  "titleAr": "الكافرون",
   "recitations": [{
     "name": "Mishari Rashid al-`Afasy",
-    "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/109.mp3"
+    "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/undefined.mp3"
   }, {
     "name": "Abdur-Rahman as-Sudais",
-    "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/109.mp3"
+    "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/undefined.mp3"
   }, {
     "name": "Saad al-Ghamdi",
-    "audio_url": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/109.mp3"
+    "audio_url": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/undefined.mp3"
   }],
-  "text": {
-    "1": "قُلْ يٰٓاَيُّهَا الْكٰفِرُوْنَۙ",
-    "2": "لَآ اَعْبُدُ مَا تَعْبُدُوْنَۙ",
-    "3": "وَلَآ اَنْتُمْ عٰبِدُوْنَ مَآ اَعْبُدُۚ",
-    "4": "وَلَآ اَنَا۠ عَابِدٌ مَّا عَبَدْتُّمْۙ",
-    "5": "وَلَآ اَنْتُمْ عٰبِدُوْنَ مَآ اَعْبُدُۗ",
-    "6": "لَكُمْ دِيْنُكُمْ وَلِيَ دِيْنِ ࣖ"
-  },
-  "translations": {
-    "id": {
-      "name": "Orang-Orang kafir",
-      "text": {
-        "1": "Katakanlah (Muhammad), “Wahai orang-orang kafir!",
-        "2": "aku tidak akan menyembah apa yang kamu sembah,",
-        "3": "dan kamu bukan penyembah apa yang aku sembah,",
-        "4": "dan aku tidak pernah menjadi penyembah apa yang kamu sembah,",
-        "5": "dan kamu tidak pernah (pula) menjadi penyembah apa yang aku sembah.",
-        "6": "Untukmu agamamu, dan untukku agamaku.”"
-      }
-    }
-  },
+  "type": "Makkiyah",
+  "verses": [{
+    "number": 1,
+    "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ قُلْ يَٰٓأَيُّهَا ٱلْكَٰفِرُونَ",
+    "translation_en": "Say, \"O disbelievers,",
+    "translation_id": "Katakanlah: \"Hai orang-orang kafir,"
+  }, {
+    "number": 2,
+    "text": "لَآ أَعْبُدُ مَا تَعْبُدُونَ",
+    "translation_en": "I do not worship what you worship.",
+    "translation_id": "Aku tidak akan menyembah apa yang kamu sembah."
+  }, {
+    "number": 3,
+    "text": "وَلَآ أَنتُمْ عَٰبِدُونَ مَآ أَعْبُدُ",
+    "translation_en": "Nor are you worshippers of what I worship.",
+    "translation_id": "Dan kamu bukan penyembah Tuhan yang aku sembah."
+  }, {
+    "number": 4,
+    "text": "وَلَآ أَنَا۠ عَابِدٌ مَّا عَبَدتُّمْ",
+    "translation_en": "Nor will I be a worshipper of what you worship.",
+    "translation_id": "Dan aku tidak pernah menjadi penyembah apa yang kamu sembah,"
+  }, {
+    "number": 5,
+    "text": "وَلَآ أَنتُمْ عَٰبِدُونَ مَآ أَعْبُدُ",
+    "translation_en": "Nor will you be worshippers of what I worship.",
+    "translation_id": "dan kamu tidak pernah (pula) menjadi penyembah Tuhan yang aku sembah."
+  }, {
+    "number": 6,
+    "text": "لَكُمْ دِينُكُمْ وَلِىَ دِينِ",
+    "translation_en": "For you is your religion, and for me is my religion.\"",
+    "translation_id": "Untukmu agamamu, dan untukkulah, agamaku\"."
+  }],
   "tafsir": {
     "id": {
       "kemenag": {

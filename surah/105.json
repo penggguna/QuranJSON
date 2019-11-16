@@ -1,39 +1,50 @@
 {
-  "number": "105",
+  "name": "Al-Fil",
+  "name_translations": {
+    "ar": "الفيل",
+    "en": "The Elephant",
+    "id": "Gajah"
+  },
+  "number_of_ayah": 5,
+  "number_of_surah": 105,
   "place": "Mecca",
-  "type": "Makkiyah",
-  "count": 5,
-  "title": "Al-Fil",
-  "titleAr": "الفيل",
   "recitations": [{
     "name": "Mishari Rashid al-`Afasy",
-    "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/105.mp3"
+    "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/undefined.mp3"
   }, {
     "name": "Abdur-Rahman as-Sudais",
-    "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/105.mp3"
+    "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/undefined.mp3"
   }, {
     "name": "Saad al-Ghamdi",
-    "audio_url": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/105.mp3"
+    "audio_url": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/undefined.mp3"
   }],
-  "text": {
-    "1": "اَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِاَصْحٰبِ الْفِيْلِۗ",
-    "2": "اَلَمْ يَجْعَلْ كَيْدَهُمْ فِيْ تَضْلِيْلٍۙ",
-    "3": "وَّاَرْسَلَ عَلَيْهِمْ طَيْرًا اَبَابِيْلَۙ",
-    "4": "تَرْمِيْهِمْ بِحِجَارَةٍ مِّنْ سِجِّيْلٍۙ",
-    "5": "فَجَعَلَهُمْ كَعَصْفٍ مَّأْكُوْلٍ ࣖ "
-  },
-  "translations": {
-    "id": {
-      "name": "Gajah",
-      "text": {
-        "1": "Tidakkah engkau (Muhammad) perhatikan bagaimana Tuhanmu telah bertindak terhadap pasukan bergajah?",
-        "2": "Bukankah Dia telah menjadikan tipu daya mereka itu sia-sia?",
-        "3": "dan Dia mengirimkan kepada mereka burung yang berbondong-bondong,",
-        "4": "yang melempari mereka dengan batu dari tanah liat yang dibakar,",
-        "5": "sehingga mereka dijadikan-Nya seperti daun-daun yang dimakan (ulat)."
-      }
-    }
-  },
+  "type": "Makkiyah",
+  "verses": [{
+    "number": 1,
+    "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَٰبِ ٱلْفِيلِ",
+    "translation_en": "Have you not considered, [O Muhammad], how your Lord dealt with the companions of the elephant?",
+    "translation_id": "Apakah kamu tidak memperhatikan bagaimana Tuhanmu telah bertindak terhadap tentara bergajah?"
+  }, {
+    "number": 2,
+    "text": "أَلَمْ يَجْعَلْ كَيْدَهُمْ فِى تَضْلِيلٍ",
+    "translation_en": "Did He not make their plan into misguidance?",
+    "translation_id": "Bukankah Dia telah menjadikan tipu daya mereka (untuk menghancurkan Ka'bah) itu sia-sia?"
+  }, {
+    "number": 3,
+    "text": "وَأَرْسَلَ عَلَيْهِمْ طَيْرًا أَبَابِيلَ",
+    "translation_en": "And He sent against them birds in flocks,",
+    "translation_id": "dan Dia mengirimkan kapada mereka burung yang berbondong-bondong,"
+  }, {
+    "number": 4,
+    "text": "تَرْمِيهِم بِحِجَارَةٍ مِّن سِجِّيلٍ",
+    "translation_en": "Striking them with stones of hard clay,",
+    "translation_id": "yang melempari mereka dengan batu (berasal) dari tanah yang terbakar,"
+  }, {
+    "number": 5,
+    "text": "فَجَعَلَهُمْ كَعَصْفٍ مَّأْكُولٍۭ",
+    "translation_en": "And He made them like eaten straw.",
+    "translation_id": "lalu Dia menjadikan mereka seperti daun-daun yang dimakan (ulat)."
+  }],
   "tafsir": {
     "id": {
       "kemenag": {

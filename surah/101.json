@@ -1,51 +1,80 @@
 {
-  "number": "101",
+  "name": "Al-Qariah",
+  "name_translations": {
+    "ar": "القارعة",
+    "en": "The Calamity",
+    "id": "Hari Kiamat"
+  },
+  "number_of_ayah": 11,
+  "number_of_surah": 101,
   "place": "Mecca",
-  "type": "Makkiyah",
-  "count": 11,
-  "title": "Al-Qariah",
-  "titleAr": "القارعة",
   "recitations": [{
     "name": "Mishari Rashid al-`Afasy",
-    "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/101.mp3"
+    "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/undefined.mp3"
   }, {
     "name": "Abdur-Rahman as-Sudais",
-    "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/101.mp3"
+    "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/undefined.mp3"
   }, {
     "name": "Saad al-Ghamdi",
-    "audio_url": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/101.mp3"
+    "audio_url": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/undefined.mp3"
   }],
-  "text": {
-    "1": "اَلْقَارِعَةُۙ",
-    "2": "مَا الْقَارِعَةُ ۚ",
-    "3": "وَمَآ اَدْرٰىكَ مَا الْقَارِعَةُ ۗ",
-    "4": "يَوْمَ يَكُوْنُ النَّاسُ كَالْفَرَاشِ الْمَبْثُوْثِۙ",
-    "5": "وَتَكُوْنُ الْجِبَالُ كَالْعِهْنِ الْمَنْفُوْشِۗ",
-    "6": "فَاَمَّا مَنْ ثَقُلَتْ مَوَازِينُهٗۙ",
-    "7": "فَهُوَ فِيْ عِيْشَةٍ رَّاضِيَةٍۗ",
-    "8": "وَاَمَّا مَنْ خَفَّتْ مَوَازِيْنُهٗۙ",
-    "9": "فَاُمُّهُ هَاوِيَةٌ  ۗ",
-    "10": "وَمَآ اَدْرٰىكَ مَا هِيَهْۗ",
-    "11": "نَارٌ حَامِيَةٌ ࣖ"
-  },
-  "translations": {
-    "id": {
-      "name": "Hari Kiamat",
-      "text": {
-        "1": "Hari Kiamat,",
-        "2": "Apakah hari Kiamat itu?",
-        "3": "Dan tahukah kamu apakah hari Kiamat itu?",
-        "4": "Pada hari itu manusia seperti laron yang beterbangan,",
-        "5": "dan gunung-gunung seperti bulu yang dihambur-hamburkan.",
-        "6": "Maka adapun orang yang berat timbangan (kebaikan)nya,",
-        "7": "maka dia berada dalam kehidupan yang memuaskan (senang).",
-        "8": "Dan adapun orang yang ringan timbangan (kebaikan)nya,",
-        "9": "maka tempat kembalinya adalah neraka Hawiyah.",
-        "10": "Dan tahukah kamu apakah neraka Hawiyah itu?",
-        "11": "(Yaitu) api yang sangat panas."
-      }
-    }
-  },
+  "type": "Makkiyah",
+  "verses": [{
+    "number": 1,
+    "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ ٱلْقَارِعَةُ",
+    "translation_en": "The Striking Calamity -",
+    "translation_id": "Hari Kiamat,"
+  }, {
+    "number": 2,
+    "text": "مَا ٱلْقَارِعَةُ",
+    "translation_en": "What is the Striking Calamity?",
+    "translation_id": "apakah hari Kiamat itu?"
+  }, {
+    "number": 3,
+    "text": "وَمَآ أَدْرَىٰكَ مَا ٱلْقَارِعَةُ",
+    "translation_en": "And what can make you know what is the Striking Calamity?",
+    "translation_id": "Tahukah kamu apakah hari Kiamat itu?"
+  }, {
+    "number": 4,
+    "text": "يَوْمَ يَكُونُ ٱلنَّاسُ كَٱلْفَرَاشِ ٱلْمَبْثُوثِ",
+    "translation_en": "It is the Day when people will be like moths, dispersed,",
+    "translation_id": "Pada hari itu manusia adalah seperti anai-anai yang bertebaran,"
+  }, {
+    "number": 5,
+    "text": "وَتَكُونُ ٱلْجِبَالُ كَٱلْعِهْنِ ٱلْمَنفُوشِ",
+    "translation_en": "And the mountains will be like wool, fluffed up.",
+    "translation_id": "dan gunung-gunung adalah seperti bulu yang dihambur-hamburkan."
+  }, {
+    "number": 6,
+    "text": "فَأَمَّا مَن ثَقُلَتْ مَوَٰزِينُهُۥ",
+    "translation_en": "Then as for one whose scales are heavy [with good deeds],",
+    "translation_id": "Dan adapun orang-orang yang berat timbangan (kebaikan)nya,"
+  }, {
+    "number": 7,
+    "text": "فَهُوَ فِى عِيشَةٍ رَّاضِيَةٍ",
+    "translation_en": "He will be in a pleasant life.",
+    "translation_id": "maka dia berada dalam kehidupan yang memuaskan."
+  }, {
+    "number": 8,
+    "text": "وَأَمَّا مَنْ خَفَّتْ مَوَٰزِينُهُۥ",
+    "translation_en": "But as for one whose scales are light,",
+    "translation_id": "Dan adapun orang-orang yang ringan timbangan (kebaikan)nya,"
+  }, {
+    "number": 9,
+    "text": "فَأُمُّهُۥ هَاوِيَةٌ",
+    "translation_en": "His refuge will be an abyss.",
+    "translation_id": "maka tempat kembalinya adalah neraka Hawiyah."
+  }, {
+    "number": 10,
+    "text": "وَمَآ أَدْرَىٰكَ مَا هِيَهْ",
+    "translation_en": "And what can make you know what that is?",
+    "translation_id": "Tahukah kamu apakah neraka Hawiyah itu?"
+  }, {
+    "number": 11,
+    "text": "نَارٌ حَامِيَةٌۢ",
+    "translation_en": "It is a Fire, intensely hot.",
+    "translation_id": "(Yaitu) api yang sangat panas."
+  }],
   "tafsir": {
     "id": {
       "kemenag": {

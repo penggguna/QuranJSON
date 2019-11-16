@@ -1,39 +1,50 @@
 {
-  "number": "113",
+  "name": "Al-Falaq",
+  "name_translations": {
+    "ar": "الفلق",
+    "en": "The Dawn",
+    "id": "Subuh"
+  },
+  "number_of_ayah": 5,
+  "number_of_surah": 113,
   "place": "Mecca",
-  "type": "Makkiyah",
-  "count": 5,
-  "title": "Al-Falaq",
-  "titleAr": "الفلق",
   "recitations": [{
     "name": "Mishari Rashid al-`Afasy",
-    "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/113.mp3"
+    "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/undefined.mp3"
   }, {
     "name": "Abdur-Rahman as-Sudais",
-    "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/113.mp3"
+    "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/undefined.mp3"
   }, {
     "name": "Saad al-Ghamdi",
-    "audio_url": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/113.mp3"
+    "audio_url": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/undefined.mp3"
   }],
-  "text": {
-    "1": "قُلْ اَعُوْذُ بِرَبِّ الْفَلَقِۙ",
-    "2": "مِنْ شَرِّ مَا خَلَقَۙ",
-    "3": "وَمِنْ شَرِّ غَاسِقٍ اِذَا وَقَبَۙ",
-    "4": "وَمِنْ شَرِّ النَّفّٰثٰتِ فِى الْعُقَدِۙ",
-    "5": "وَمِنْ شَرِّ حَاسِدٍ اِذَا حَسَدَ ࣖ"
-  },
-  "translations": {
-    "id": {
-      "name": "Subuh",
-      "text": {
-        "1": "Katakanlah, “Aku berlindung kepada Tuhan yang menguasai subuh (fajar),",
-        "2": "dari kejahatan (makhluk yang) Dia ciptakan,",
-        "3": "dan dari kejahatan malam apabila telah gelap gulita,",
-        "4": "dan dari kejahatan (perempuan-perempuan) penyihir yang meniup pada buhul-buhul (talinya),",
-        "5": "dan dari kejahatan orang yang dengki apabila dia dengki.”"
-      }
-    }
-  },
+  "type": "Makkiyah",
+  "verses": [{
+    "number": 1,
+    "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ قُلْ أَعُوذُ بِرَبِّ ٱلْفَلَقِ",
+    "translation_en": "Say, \"I seek refuge in the Lord of daybreak",
+    "translation_id": "Katakanlah: \"Aku berlindung kepada Tuhan Yang Menguasai subuh,"
+  }, {
+    "number": 2,
+    "text": "مِن شَرِّ مَا خَلَقَ",
+    "translation_en": "From the evil of that which He created",
+    "translation_id": "dari kejahatan makhluk-Nya,"
+  }, {
+    "number": 3,
+    "text": "وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ",
+    "translation_en": "And from the evil of darkness when it settles",
+    "translation_id": "dan dari kejahatan malam apabila telah gelap gulita,"
+  }, {
+    "number": 4,
+    "text": "وَمِن شَرِّ ٱلنَّفَّٰثَٰتِ فِى ٱلْعُقَدِ",
+    "translation_en": "And from the evil of the blowers in knots",
+    "translation_id": "dan dari kejahatan wanita-wanita tukang sihir yang menghembus pada buhul-buhul,"
+  }, {
+    "number": 5,
+    "text": "وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ",
+    "translation_en": "And from the evil of an envier when he envies.\"",
+    "translation_id": "dan dari kejahatan pendengki bila ia dengki\"."
+  }],
   "tafsir": {
     "id": {
       "kemenag": {

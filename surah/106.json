@@ -1,37 +1,45 @@
 {
-  "number": "106",
+  "name": "Quraish",
+  "name_translations": {
+    "ar": "قريش",
+    "en": "Quraysh",
+    "id": "Quraisy"
+  },
+  "number_of_ayah": 4,
+  "number_of_surah": 106,
   "place": "Mecca",
-  "type": "Makkiyah",
-  "count": 4,
-  "title": "Quraish",
-  "titleAr": "قريش",
   "recitations": [{
     "name": "Mishari Rashid al-`Afasy",
-    "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/106.mp3"
+    "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/undefined.mp3"
   }, {
     "name": "Abdur-Rahman as-Sudais",
-    "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/106.mp3"
+    "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/undefined.mp3"
   }, {
     "name": "Saad al-Ghamdi",
-    "audio_url": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/106.mp3"
+    "audio_url": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/undefined.mp3"
   }],
-  "text": {
-    "1": "لِاِيْلٰفِ قُرَيْشٍۙ",
-    "2": "اٖلٰفِهِمْ رِحْلَةَ الشِّتَاۤءِ وَالصَّيْفِۚ",
-    "3": "فَلْيَعْبُدُوْا رَبَّ هٰذَا الْبَيْتِۙ",
-    "4": "الَّذِيْٓ اَطْعَمَهُمْ مِّنْ جُوْعٍ ەۙ وَّاٰمَنَهُمْ مِّنْ خَوْفٍ ࣖ"
-  },
-  "translations": {
-    "id": {
-      "name": "Quraisy",
-      "text": {
-        "1": "Karena kebiasaan orang-orang Quraisy,",
-        "2": "(yaitu) kebiasaan mereka bepergian pada musim dingin dan musim panas.",
-        "3": "Maka hendaklah mereka menyembah Tuhan (pemilik) rumah ini (Ka‘bah),",
-        "4": "yang telah memberi makanan kepada mereka untuk menghilangkan lapar dan mengamankan mereka dari rasa ketakutan."
-      }
-    }
-  },
+  "type": "Makkiyah",
+  "verses": [{
+    "number": 1,
+    "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ لِإِيلَٰفِ قُرَيْشٍ",
+    "translation_en": "For the accustomed security of the Quraysh -",
+    "translation_id": "Karena kebiasaan orang-orang Quraisy,"
+  }, {
+    "number": 2,
+    "text": "إِۦلَٰفِهِمْ رِحْلَةَ ٱلشِّتَآءِ وَٱلصَّيْفِ",
+    "translation_en": "Their accustomed security [in] the caravan of winter and summer -",
+    "translation_id": "(yaitu) kebiasaan mereka bepergian pada musim dingin dan musim panas."
+  }, {
+    "number": 3,
+    "text": "فَلْيَعْبُدُوا۟ رَبَّ هَٰذَا ٱلْبَيْتِ",
+    "translation_en": "Let them worship the Lord of this House,",
+    "translation_id": "Maka hendaklah mereka menyembah Tuhan Pemilik rumah ini (Ka'bah)."
+  }, {
+    "number": 4,
+    "text": "ٱلَّذِىٓ أَطْعَمَهُم مِّن جُوعٍ وَءَامَنَهُم مِّنْ خَوْفٍۭ",
+    "translation_en": "Who has fed them, [saving them] from hunger and made them safe, [saving them] from fear.",
+    "translation_id": "Yang telah memberi makanan kepada mereka untuk menghilangkan lapar dan mengamankan mereka dari ketakutan."
+  }],
   "tafsir": {
     "id": {
       "kemenag": {

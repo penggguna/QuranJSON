@@ -1,43 +1,60 @@
 {
-  "number": "107",
+  "name": "Al-Ma'un",
+  "name_translations": {
+    "ar": "الماعون",
+    "en": "Almsgiving",
+    "id": "Barang Yang Berguna"
+  },
+  "number_of_ayah": 7,
+  "number_of_surah": 107,
   "place": "Mecca",
-  "type": "Makkiyah",
-  "count": 7,
-  "title": "Al-Ma'un",
-  "titleAr": "الماعون",
   "recitations": [{
     "name": "Mishari Rashid al-`Afasy",
-    "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/107.mp3"
+    "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/undefined.mp3"
   }, {
     "name": "Abdur-Rahman as-Sudais",
-    "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/107.mp3"
+    "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/undefined.mp3"
   }, {
     "name": "Saad al-Ghamdi",
-    "audio_url": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/107.mp3"
+    "audio_url": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/undefined.mp3"
   }],
-  "text": {
-    "1": "اَرَءَيْتَ الَّذِيْ يُكَذِّبُ بِالدِّيْنِۗ",
-    "2": "فَذٰلِكَ الَّذِيْ يَدُعُّ الْيَتِيْمَۙ",
-    "3": "وَلَا يَحُضُّ عَلٰى طَعَامِ الْمِسْكِيْنِۗ",
-    "4": "فَوَيْلٌ لِّلْمُصَلِّيْنَۙ",
-    "5": "الَّذِيْنَ هُمْ عَنْ صَلَاتِهِمْ سَاهُوْنَۙ",
-    "6": "الَّذِيْنَ هُمْ يُرَاۤءُوْنَۙ",
-    "7": "وَيَمْنَعُوْنَ الْمَاعُوْنَ ࣖ"
-  },
-  "translations": {
-    "id": {
-      "name": "Barang Yang Berguna",
-      "text": {
-        "1": "Tahukah kamu (orang) yang mendustakan agama?",
-        "2": "Maka itulah orang yang menghardik anak yatim,",
-        "3": "dan tidak mendorong memberi makan orang miskin.",
-        "4": "Maka celakalah orang yang salat,",
-        "5": "(yaitu) orang-orang yang lalai terhadap salatnya,",
-        "6": "yang berbuat ria,",
-        "7": "dan enggan (memberikan) bantuan."
-      }
-    }
-  },
+  "type": "Makkiyah",
+  "verses": [{
+    "number": 1,
+    "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ أَرَءَيْتَ ٱلَّذِى يُكَذِّبُ بِٱلدِّينِ",
+    "translation_en": "Have you seen the one who denies the Recompense?",
+    "translation_id": "Tahukah kamu (orang) yang mendustakan agama?"
+  }, {
+    "number": 2,
+    "text": "فَذَٰلِكَ ٱلَّذِى يَدُعُّ ٱلْيَتِيمَ",
+    "translation_en": "For that is the one who drives away the orphan",
+    "translation_id": "Itulah orang yang menghardik anak yatim,"
+  }, {
+    "number": 3,
+    "text": "وَلَا يَحُضُّ عَلَىٰ طَعَامِ ٱلْمِسْكِينِ",
+    "translation_en": "And does not encourage the feeding of the poor.",
+    "translation_id": "dan tidak menganjurkan memberi makan orang miskin."
+  }, {
+    "number": 4,
+    "text": "فَوَيْلٌ لِّلْمُصَلِّينَ",
+    "translation_en": "So woe to those who pray",
+    "translation_id": "Maka kecelakaanlah bagi orang-orang yang shalat,"
+  }, {
+    "number": 5,
+    "text": "ٱلَّذِينَ هُمْ عَن صَلَاتِهِمْ سَاهُونَ",
+    "translation_en": "[But] who are heedless of their prayer -",
+    "translation_id": "(yaitu) orang-orang yang lalai dari shalatnya,"
+  }, {
+    "number": 6,
+    "text": "ٱلَّذِينَ هُمْ يُرَآءُونَ",
+    "translation_en": "Those who make show [of their deeds]",
+    "translation_id": "orang-orang yang berbuat riya,"
+  }, {
+    "number": 7,
+    "text": "وَيَمْنَعُونَ ٱلْمَاعُونَ",
+    "translation_en": "And withhold [simple] assistance.",
+    "translation_id": "dan enggan (menolong dengan) barang berguna."
+  }],
   "tafsir": {
     "id": {
       "kemenag": {

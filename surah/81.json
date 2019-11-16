@@ -1,0 +1,207 @@
+{
+  "name": "At-Takwir",
+  "name_translations": {
+    "ar": "التكوير",
+    "en": "The Overthrowing",
+    "id": "Penggulungan"
+  },
+  "number_of_ayah": 29,
+  "number_of_surah": 81,
+  "place": "Mecca",
+  "recitations": [{
+    "name": "Mishari Rashid al-`Afasy",
+    "audio_url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/undefined.mp3"
+  }, {
+    "name": "Abdur-Rahman as-Sudais",
+    "audio_url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/undefined.mp3"
+  }, {
+    "name": "Saad al-Ghamdi",
+    "audio_url": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/undefined.mp3"
+  }],
+  "type": "Makkiyah",
+  "verses": [{
+    "number": 1,
+    "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ إِذَا ٱلشَّمْسُ كُوِّرَتْ",
+    "translation_en": "When the sun is wrapped up [in darkness]",
+    "translation_id": "Apabila matahari digulung,"
+  }, {
+    "number": 2,
+    "text": "وَإِذَا ٱلنُّجُومُ ٱنكَدَرَتْ",
+    "translation_en": "And when the stars fall, dispersing,",
+    "translation_id": "dan apabila bintang-bintang berjatuhan,"
+  }, {
+    "number": 3,
+    "text": "وَإِذَا ٱلْجِبَالُ سُيِّرَتْ",
+    "translation_en": "And when the mountains are removed",
+    "translation_id": "dan apabila gunung-gunung dihancurkan,"
+  }, {
+    "number": 4,
+    "text": "وَإِذَا ٱلْعِشَارُ عُطِّلَتْ",
+    "translation_en": "And when full-term she-camels are neglected",
+    "translation_id": "dan apabila unta-unta yang bunting ditinggalkan (tidak diperdulikan)"
+  }, {
+    "number": 5,
+    "text": "وَإِذَا ٱلْوُحُوشُ حُشِرَتْ",
+    "translation_en": "And when the wild beasts are gathered",
+    "translation_id": "dan apabila binatang-binatang liar dikumpulkan,"
+  }, {
+    "number": 6,
+    "text": "وَإِذَا ٱلْبِحَارُ سُجِّرَتْ",
+    "translation_en": "And when the seas are filled with flame",
+    "translation_id": "dan apabila lautan dijadikan meluap"
+  }, {
+    "number": 7,
+    "text": "وَإِذَا ٱلنُّفُوسُ زُوِّجَتْ",
+    "translation_en": "And when the souls are paired",
+    "translation_id": "dan apabila ruh-ruh dipertemukan (dengan tubuh)"
+  }, {
+    "number": 8,
+    "text": "وَإِذَا ٱلْمَوْءُۥدَةُ سُئِلَتْ",
+    "translation_en": "And when the girl [who was] buried alive is asked",
+    "translation_id": "dan apabila bayi-bayi perempuan yang dikubur hidup-hidup ditanya,"
+  }, {
+    "number": 9,
+    "text": "بِأَىِّ ذَنۢبٍ قُتِلَتْ",
+    "translation_en": "For what sin she was killed",
+    "translation_id": "karena dosa apakah dia dibunuh,"
+  }, {
+    "number": 10,
+    "text": "وَإِذَا ٱلصُّحُفُ نُشِرَتْ",
+    "translation_en": "And when the pages are made public",
+    "translation_id": "dan apabila catatan-catatan (amal perbuatan manusia) dibuka,"
+  }, {
+    "number": 11,
+    "text": "وَإِذَا ٱلسَّمَآءُ كُشِطَتْ",
+    "translation_en": "And when the sky is stripped away",
+    "translation_id": "dan apabila langit dilenyapkan,"
+  }, {
+    "number": 12,
+    "text": "وَإِذَا ٱلْجَحِيمُ سُعِّرَتْ",
+    "translation_en": "And when Hellfire is set ablaze",
+    "translation_id": "dan apabila neraka Jahim dinyalakan,"
+  }, {
+    "number": 13,
+    "text": "وَإِذَا ٱلْجَنَّةُ أُزْلِفَتْ",
+    "translation_en": "And when Paradise is brought near,",
+    "translation_id": "dan apabila surga didekatkan,"
+  }, {
+    "number": 14,
+    "text": "عَلِمَتْ نَفْسٌ مَّآ أَحْضَرَتْ",
+    "translation_en": "A soul will [then] know what it has brought [with it].",
+    "translation_id": "maka tiap-tiap jiwa akan mengetahui apa yang telah dikerjakannya."
+  }, {
+    "number": 15,
+    "text": "فَلَآ أُقْسِمُ بِٱلْخُنَّسِ",
+    "translation_en": "So I swear by the retreating stars -",
+    "translation_id": "Sungguh, Aku bersumpah dengan bintang-bintang,"
+  }, {
+    "number": 16,
+    "text": "ٱلْجَوَارِ ٱلْكُنَّسِ",
+    "translation_en": "Those that run [their courses] and disappear -",
+    "translation_id": "yang beredar dan terbenam,"
+  }, {
+    "number": 17,
+    "text": "وَٱلَّيْلِ إِذَا عَسْعَسَ",
+    "translation_en": "And by the night as it closes in",
+    "translation_id": "demi malam apabila telah hampir meninggalkan gelapnya,"
+  }, {
+    "number": 18,
+    "text": "وَٱلصُّبْحِ إِذَا تَنَفَّسَ",
+    "translation_en": "And by the dawn when it breathes",
+    "translation_id": "dan demi subuh apabila fajarnya mulai menyingsing,"
+  }, {
+    "number": 19,
+    "text": "إِنَّهُۥ لَقَوْلُ رَسُولٍ كَرِيمٍ",
+    "translation_en": "[That] indeed, the Qur'an is a word [conveyed by] a noble messenger",
+    "translation_id": "sesungguhnya Al Quran itu benar-benar firman (Allah yang dibawa oleh) utusan yang mulia (Jibril),"
+  }, {
+    "number": 20,
+    "text": "ذِى قُوَّةٍ عِندَ ذِى ٱلْعَرْشِ مَكِينٍ",
+    "translation_en": "[Who is] possessed of power and with the Owner of the Throne, secure [in position],",
+    "translation_id": "yang mempunyai kekuatan, yang mempunyai kedudukan tinggi di sisi Allah yang mempunyai 'Arsy,"
+  }, {
+    "number": 21,
+    "text": "مُّطَاعٍ ثَمَّ أَمِينٍ",
+    "translation_en": "Obeyed there [in the heavens] and trustworthy.",
+    "translation_id": "yang ditaati di sana (di alam malaikat) lagi dipercaya."
+  }, {
+    "number": 22,
+    "text": "وَمَا صَاحِبُكُم بِمَجْنُونٍ",
+    "translation_en": "And your companion is not [at all] mad.",
+    "translation_id": "Dan temanmu (Muhammad) itu bukanlah sekali-kali orang yang gila."
+  }, {
+    "number": 23,
+    "text": "وَلَقَدْ رَءَاهُ بِٱلْأُفُقِ ٱلْمُبِينِ",
+    "translation_en": "And he has already seen Gabriel in the clear horizon.",
+    "translation_id": "Dan sesungguhnya Muhammad itu melihat Jibril di ufuk yang terang."
+  }, {
+    "number": 24,
+    "text": "وَمَا هُوَ عَلَى ٱلْغَيْبِ بِضَنِينٍ",
+    "translation_en": "And Muhammad is not a withholder of [knowledge of] the unseen.",
+    "translation_id": "Dan dia (Muhammad) bukanlah orang yang bakhil untuk menerangkan yang ghaib."
+  }, {
+    "number": 25,
+    "text": "وَمَا هُوَ بِقَوْلِ شَيْطَٰنٍ رَّجِيمٍ",
+    "translation_en": "And the Qur'an is not the word of a devil, expelled [from the heavens].",
+    "translation_id": "Dan Al Quran itu bukanlah perkataan syaitan yang terkutuk,"
+  }, {
+    "number": 26,
+    "text": "فَأَيْنَ تَذْهَبُونَ",
+    "translation_en": "So where are you going?",
+    "translation_id": "maka ke manakah kamu akan pergi?"
+  }, {
+    "number": 27,
+    "text": "إِنْ هُوَ إِلَّا ذِكْرٌ لِّلْعَٰلَمِينَ",
+    "translation_en": "It is not except a reminder to the worlds",
+    "translation_id": "Al Quran itu tiada lain hanyalah peringatan bagi semesta alam,"
+  }, {
+    "number": 28,
+    "text": "لِمَن شَآءَ مِنكُمْ أَن يَسْتَقِيمَ",
+    "translation_en": "For whoever wills among you to take a right course.",
+    "translation_id": "(yaitu) bagi siapa di antara kamu yang mau menempuh jalan yang lurus."
+  }, {
+    "number": 29,
+    "text": "وَمَا تَشَآءُونَ إِلَّآ أَن يَشَآءَ ٱللَّهُ رَبُّ ٱلْعَٰلَمِينَ",
+    "translation_en": "And you do not will except that Allah wills - Lord of the worlds.",
+    "translation_id": "Dan kamu tidak dapat menghendaki (menempuh jalan itu) kecuali apabila dikehendaki Allah, Tuhan semesta alam."
+  }],
+  "tafsir": {
+    "id": {
+      "kemenag": {
+        "name": "Kemenag",
+        "source": "Aplikasi Quran Kementrian Agama Republik Indonesia",
+        "text": {
+          "1": "Dalam ayat ini, Allah menerangkan bahwa jika matahari telah digulung, telah padam cahayanya dan jatuh berantakan bersamaan dengan hancurnya alam semesta yang pernah didiami oleh makhluk-makhluk yang hidup di dunia, maka musnahlah segala alam karena berpindah kepada alam yang lain.",
+          "2": "Apabila bintang-bintang berjatuhan dan padam sekalian cahayanya.",
+          "3": "Dan apabila gunung-gunung dihancurkan setelah dicabut dari bumi, diterbangkan di angkasa ketika terjadinya gempa yang amat dahsyat sehingga gunung-gunung itu terlepas dari dasarnya dan dilemparkan di angkasa seperti awan yang ditiup angin laksana kapas.\n\nUntuk telaah ilmiah Surah at-Takwir/81: 1-3 ini, lihat pula telaah ilmiah Surah al-haqqah/69: 13-16 dan Surah al-Ma'arij/70: 8. Ketika terjadi proses ke arah Big Crunch itu, yaitu proses pemadatan atau penyusutan alam semesta, maka semua materi pecah kembali menjadi materi-materi fundamental seperti quark, elektron dan sebagainya. Gaya-gaya seperti gaya gravitasi, elektromagnetik, nuklir kuat dan nuklir lemah mulai menyatu kembali. Saat itulah benda-benda langit mulai kehilangan gaya-gaya gravitasinya, dan akibatnya terjadilah tabrakan-tabrakan dahsyat antar bintang, inilah gambaran 'bintang-bintang berjatuhan, karena kehilangan gaya-gaya gravitasinya. \n\nMatahari yang juga merupakan jenis bintang mengalami hal sama. Ketika benda-benda langit saling mendekat, kekuatan gravitasi bagian luar boleh jadi akan melebihi cengkeraman kekuatan plasma di dalam bintang-bintang itu (termasuk matahari). Akibatnya adalah volume matahari dan bintang-bintang yang lain akan memuai. Matahari akan menjadi lebih besar volumenya, namun tekanan internalnya berkurang, dan cukup untuk menghentikan energi yang menghasilkan reaksi perpaduan nuklirnya. Akibatnya sinar matahari (yang memuai itu) akan meredup menjadi merah. Ketika pengembangan volume matahari telah mencapai maksimum, maka matahari akan mengalami kontraksi dan volumenya akan menurun dan menurun terus, mengecil yang akhirnya menjadi bintik hitam yang super-padat (dwarf black hole atau bintik hitam kerdil). Inikah yang dimaksud dengan matahari digulung pada ayat 1 di atas? \n\nBenturan juga terjadi antar-planet, sehingga bumi berbenturan dengan planet-planet lainnya. Akibat peristiwa inilah terjadinya kehancuran gunung-gunung. Semua proses ini akan mengarah ke Big Crunch dan kembali menjadi singularity.",
+          "4": "Dan apabila unta-unta bunting yang termasuk benda paling dihargai oleh orang-orang Arab, ditinggalkan dan tidak dipedulikan oleh pemiliknya karena kedahsyatan hari Kiamat tersebut. Hal ini menggambarkan kedahsyatan hari Kiamat yang jika diperkirakan, jika ada seorang laki-laki mempunyai unta yang bunting tentu ditinggalkan karena terlalu sibuk memikirkan keselamatan dirinya sendiri.",
+          "5": "Dan apabila binatang-binatang liar dikumpulkan dan dimusnahkan.",
+          "6": "Dan apabila lautan-lautan dijadikan meluap, sehingga menjadi satu, kemudian menyala dengan kobaran api yang tadinya terpendam di bawah bumi tersebut.\n\nSetelah Allah menerangkan beberapa peristiwa yang menjadi permulaan hancurnya alam semesta dan matinya semua makhluk yang berada di atasnya, maka Allah menjelaskan apa yang terjadi setelah itu tentang kebangkitan.",
+          "7": "Dan apabila roh-roh dipertemukan kembali dengan tubuh untuk memasuki kehidupan di alam akhirat. Ayat ini mengandung isyarat bahwa roh-roh itu tetap utuh setelah mati dan pada hari Kiamat dikembalikan lagi pada badannya.\n\nPendapat lain menyebutkan arti ayat ini dengan bertemunya kelompok orang-orang termasuk ashabul-yamin dengan kelompok ashabusy-syimal. Ibnu 'Abbas mengatakan bahwa arti ayat ini adalah dipertemukannya roh orang-orang yang beriman dengan pasangan-pasangannya di surga dan roh orang-orang kafir dipertemukan dengan setan-setan pembantunya.",
+          "8": "Dan apabila bayi-bayi perempuan yang dikubur hidup-hidup ditanya, karena dosa apakah dia dibunuh? Dalam ayat ini Allah menerangkan bahwa bayi-bayi yang pernah dikubur hidup-hidup akan dihidupkan kembali di hadapan orang yang menguburkannya dan ditanya karena dosa apakah dia dibunuh. Jawaban pertanyaan ini memberikan kesan yang lebih dalam kepada si pembunuhnya karena bayi perempuan itu akan menjawab bahwa ia dikubur hidup-hidup tanpa dosa sama sekali, hanya karena orang tuanya takut dihinggapi kefakiran dan kemiskinan. Kebiasaan orang Arab pada zaman Jahiliah ini sangat di luar peri kemanusiaan.\n\nDi kalangan mereka ada yang tidak mengubur hidup-hidup anaknya yang perempuan, tetapi ia memberikan pekerjaan kepadanya dengan menggembalakan kambing di padang pasir dengan pakaian bulu dan membiarkan hidup dalam kesepian.\n\nDan ada pula yang membiarkan anak perempuannya itu hidup sampai umur enam tahun kemudian ia berkata kepada ibunya, \"Dandanilah anak ini dengan pakaian yang baik, karena akan dibawa ziarah mengunjungi bibinya.\" Sebelumnya ia telah menggali sebuah sumur di padang pasir. Setelah ia sampai dengan anak perempuannya itu di tepi sumur itu, lalu berkata, \"Tengok, apa yang ada dalam sumur itu.\" Kemudian anak perempuan itu ditendang dari belakang dan setelah jatuh ke dalam sumur itu lalu ditimbun dan diratakan dengan tanah. Dan di antara mereka ada yang berbuat lebih kejam lagi daripada ini. Setelah datang agama Islam, maka kekejaman yang di luar peri kemanusiaan itu diganti dengan sikap yang penuh ramah dan kesayangan.\n\nDi antara alasan pembunuhan anak perempuan di masa Jahiliah adalah karena anak perempuan dianggap tidak punya nilai ekonomis yang bisa menguntungkan keluarga. Alasan lain adalah karena anak perempuan dianggap sangat lemah, sering menjadi korban pelecehan seksual atau karena perempuan dianggap sebagai penggoda laki-laki yang bisa membuat malu keluarga.\n\nDalam Surah an-Nahl/16: 58, Allah menggambarkan seorang laki-laki yang mendapat kelahiran putrinya dengan wajah hitam karena menahan marah.\n\nPadahal apabila seseorang dari mereka diberi kabar dengan (kelahiran) anak perempuan, wajahnya menjadi hitam (merah padam), dan dia sangat marah. (an-Nahl/16: 58)\n\nIslam adalah agama yang menghormati perempuan, sama seperti menghormati laki-laki. Oleh sebab itu, Islam melarang pembunuhan bayi laki-laki maupun perempuan, baik karena kemiskinan atau karena takut miskin. Allah berfirman:\n\nJanganlah membunuh anak-anakmu karena miskin. Kamilah yang memberi rezeki kepadamu dan kepada mereka. (al-An'am/6: 151)",
+          "9": "Dan apabila bayi-bayi perempuan yang dikubur hidup-hidup ditanya, karena dosa apakah dia dibunuh? Dalam ayat ini Allah menerangkan bahwa bayi-bayi yang pernah dikubur hidup-hidup akan dihidupkan kembali di hadapan orang yang menguburkannya dan ditanya karena dosa apakah dia dibunuh. Jawaban pertanyaan ini memberikan kesan yang lebih dalam kepada si pembunuhnya karena bayi perempuan itu akan menjawab bahwa ia dikubur hidup-hidup tanpa dosa sama sekali, hanya karena orang tuanya takut dihinggapi kefakiran dan kemiskinan. Kebiasaan orang Arab pada zaman Jahiliah ini sangat di luar peri kemanusiaan.\n\nDi kalangan mereka ada yang tidak mengubur hidup-hidup anaknya yang perempuan, tetapi ia memberikan pekerjaan kepadanya dengan menggembalakan kambing di padang pasir dengan pakaian bulu dan membiarkan hidup dalam kesepian.\n\nDan ada pula yang membiarkan anak perempuannya itu hidup sampai umur enam tahun kemudian ia berkata kepada ibunya, \"Dandanilah anak ini dengan pakaian yang baik, karena akan dibawa ziarah mengunjungi bibinya.\" Sebelumnya ia telah menggali sebuah sumur di padang pasir. Setelah ia sampai dengan anak perempuannya itu di tepi sumur itu, lalu berkata, \"Tengok, apa yang ada dalam sumur itu.\" Kemudian anak perempuan itu ditendang dari belakang dan setelah jatuh ke dalam sumur itu lalu ditimbun dan diratakan dengan tanah. Dan di antara mereka ada yang berbuat lebih kejam lagi daripada ini. Setelah datang agama Islam, maka kekejaman yang di luar peri kemanusiaan itu diganti dengan sikap yang penuh ramah dan kesayangan.\n\nDi antara alasan pembunuhan anak perempuan di masa Jahiliah adalah karena anak perempuan dianggap tidak punya nilai ekonomis yang bisa menguntungkan keluarga. Alasan lain adalah karena anak perempuan dianggap sangat lemah, sering menjadi korban pelecehan seksual atau karena perempuan dianggap sebagai penggoda laki-laki yang bisa membuat malu keluarga.\n\nDalam Surah an-Nahl/16: 58, Allah menggambarkan seorang laki-laki yang mendapat kelahiran putrinya dengan wajah hitam karena menahan marah.\n\nPadahal apabila seseorang dari mereka diberi kabar dengan (kelahiran) anak perempuan, wajahnya menjadi hitam (merah padam), dan dia sangat marah. (an-Nahl/16: 58)\n\nIslam adalah agama yang menghormati perempuan, sama seperti menghormati laki-laki. Oleh sebab itu, Islam melarang pembunuhan bayi laki-laki maupun perempuan, baik karena kemiskinan atau karena takut miskin. Allah berfirman:\n\nJanganlah membunuh anak-anakmu karena miskin. Kamilah yang memberi rezeki kepadamu dan kepada mereka. (al-An'am/6: 151)",
+          "10": "Dalam ayat ini dijelaskan apabila catatan-catatan amal perbuatan manusia dibuka, maka mereka akan melihat kebajikan atau kejahatan yang mereka perbuat ketika di dunia. Mereka akan tercengang keheranan karena tidak menyangka semuanya tercatat rapi dan teliti. Allah berfirman:\n\nDan diletakkanlah kitab (catatan amal), lalu engkau akan melihat orang yang berdosa merasa ketakutan terhadap apa yang (tertulis) di dalamnya, dan mereka berkata, \"Betapa celaka kami, kitab apakah ini, tidak ada yang tertinggal, yang kecil dan yang besar melainkan tercatat semuanya,\" dan mereka dapati (semua) apa yang telah mereka kerjakan (tertulis). Dan Tuhanmu tidak menzalimi seorang jua pun. (al-Kahf/18: 49)\n\nBagaimana bentuk kitab atau catatan amal perbuatan manusia itu di Padang Mahsyar tidak kita ketahui. Namun kalau manusia saja mampu menciptakan berbagai alat perekam yang begitu canggih dan teliti, kita percaya bahwa Allah Sang Pencipta manusia punya sistem dan cara untuk merekam perbuatan, perkataan, dan isi hati manusia dengan hasil yang lebih baik dari apa yang dapat dibuat manusia.",
+          "11": "Dan apabila langit dilenyapkan karena kehancuran planet-planet yang ada di dalamnya. Langit yang begitu luas dapat dilipat seperti melipat kertas. Firman Allah:\n\n(Ingatlah) pada hari langit Kami gulung seperti menggulung lembaran-lembaran kertas. (al-Anbiya'/21: 104)",
+          "12": "Dan apabila neraka Jahim yang disediakan untuk menyiksa orang-orang kafir dan durhaka telah dinyalakan sehebat-hebatnya sehingga orang yang memasukinya merasa kesakitan yang paling dahsyat. Itulah azab yang diancamkan Allah kepada orang-orang yang mengingkari-Nya. Firman Allah:\n\nSungguh, Kami telah menyediakan bagi orang-orang kafir rantai, belenggu dan neraka yang menyala-nyala. (al-Insan/76: 4)",
+          "13": "Dan apabila surga didekatkan kepada orang-orang yang akan memasukinya yaitu orang-orang mukmin yang bertakwa. Ini adalah balasan atas jerih payah dan usaha mereka berjihad menegakkan agama Allah dan menjalankan perintah agama. Allah berfirman:\n\nDan surga didekatkan kepada orang-orang yang bertakwa. (asy-Syu'ara'/26: 90)",
+          "14": "Jika semua peristiwa-peristiwa yang disebutkan sebelum ayat ini telah terjadi, tiap jiwa akan mengetahui apa yang telah dikerjakannya. Sebagian besar dari manusia ketika hidup di dunia tertipu oleh godaan setan. Mereka akan menjumpai amal perbuatan mereka pada hari Kiamat tidak diterima oleh Allah bahkan dijauhkan dari rahmat-Nya dan berada di bawah murka-Nya.\n\nOrang-orang yang amal perbuatannya diselubungi dengan ria, tidak mendapat faedah dari amalnya itu kecuali sekadar kepayahan dan kesulitan. Setiap orang wajib memandang kepada amal perbuatannya dengan kaca mata agama dan menimbangnya dengan timbangan yang benar, sebab Allah tidak menerima amal perbuatan melainkan yang muncul dari hati yang penuh dengan keimanan dan keikhlasan.",
+          "15": "Dalam ayat-ayat ini, Allah bersumpah demi bintang-bintang yang beredar dan terbenam. Bintang-bintang itu semuanya tidak tampak oleh penglihatan pada siang hari, namun akan kelihatan bersinar pada malam hari. Allah bersumpah dengan bintang-bintang itu karena dalam keadaannya yang silih berganti, tidak tampak ketika siang dan bersinar pada malam hari, merupakan tanda atas kekuasaan Allah yang mengatur perjalanannya.",
+          "16": "Dalam ayat-ayat ini, Allah bersumpah demi bintang-bintang yang beredar dan terbenam. Bintang-bintang itu semuanya tidak tampak oleh penglihatan pada siang hari, namun akan kelihatan bersinar pada malam hari. Allah bersumpah dengan bintang-bintang itu karena dalam keadaannya yang silih berganti, tidak tampak ketika siang dan bersinar pada malam hari, merupakan tanda atas kekuasaan Allah yang mengatur perjalanannya.",
+          "17": "Dalam ayat ini, Allah bersumpah demi malam apabila telah hampir meninggalkan gelapnya.",
+          "18": "Kemudian dalam ayat ini Allah bersumpah demi subuh apabila fajar mulai menyingsing dan bersinar. Waktu subuh digunakan Allah dalam bersumpah karena waktu ini menimbulkan harapan yang menggembirakan bagi setiap manusia yang bangun pagi karena menghadapi hari yang baru. Saat itu mereka dapat menemukan hajat keperluan hidupnya mengganti yang hilang dan bersiap-siap untuk yang akan datang.\n\nKemudian Allah menerangkan apa yang dijadikan objek sumpahnya itu, dengan firman-Nya pada ayat berikut ini.",
+          "19": "Dalam ayat-ayat ini, Allah menjelaskan objek sumpah yang disebutkan dalam ayat 15-18 di atas, yaitu sesungguhnya apa yang diberitahukan oleh Muhammad saw tentang peristiwa-peristiwa hari Kiamat bukanlah kata-kata seorang dukun atau isapan jempol. Akan tetapi, benar-benar wahyu yang dibawa oleh Malaikat Jibril dari Tuhannya. Allah telah menyifati utusan yang membawa Al-Qur'an tersebut, yaitu Malaikat Jibril, dengan lima macam sifat yang mengandung keutamaan:\n\n1.Yang mulia pada sisi Tuhannya karena Allah memberikan padanya sesuatu yang paling berharga yaitu hidayah, dan memerintahkannya untuk menyampaikan hidayah itu kepada para nabi-Nya diteruskan kepada para hamba-Nya.\n\n2.Yang mempunyai kekuatan dalam memelihara Al-Qur'an jauh dari sifat pelupa atau keliru.\n\n3.Yang mempunyai kedudukan tinggi di sisi Allah yang mempunyai 'Arasy.\n\n4.Yang ditaati di kalangan malaikat karena kewenangannya.\n\n5.Yang dipercaya untuk menyampaikan wahyu karena terpelihara dari sifat-sifat khianat dan penyelewengan.",
+          "20": "Dalam ayat-ayat ini, Allah menjelaskan objek sumpah yang disebutkan dalam ayat 15-18 di atas, yaitu sesungguhnya apa yang diberitahukan oleh Muhammad saw tentang peristiwa-peristiwa hari Kiamat bukanlah kata-kata seorang dukun atau isapan jempol. Akan tetapi, benar-benar wahyu yang dibawa oleh Malaikat Jibril dari Tuhannya. Allah telah menyifati utusan yang membawa Al-Qur'an tersebut, yaitu Malaikat Jibril, dengan lima macam sifat yang mengandung keutamaan:\n\n1.Yang mulia pada sisi Tuhannya karena Allah memberikan padanya sesuatu yang paling berharga yaitu hidayah, dan memerintahkannya untuk menyampaikan hidayah itu kepada para nabi-Nya diteruskan kepada para hamba-Nya.\n\n2.Yang mempunyai kekuatan dalam memelihara Al-Qur'an jauh dari sifat pelupa atau keliru.\n\n3.Yang mempunyai kedudukan tinggi di sisi Allah yang mempunyai 'Arasy.\n\n4.Yang ditaati di kalangan malaikat karena kewenangannya.\n\n5.Yang dipercaya untuk menyampaikan wahyu karena terpelihara dari sifat-sifat khianat dan penyelewengan.",
+          "21": "Dalam ayat-ayat ini, Allah menjelaskan objek sumpah yang disebutkan dalam ayat 15-18 di atas, yaitu sesungguhnya apa yang diberitahukan oleh Muhammad saw tentang peristiwa-peristiwa hari Kiamat bukanlah kata-kata seorang dukun atau isapan jempol. Akan tetapi, benar-benar wahyu yang dibawa oleh Malaikat Jibril dari Tuhannya. Allah telah menyifati utusan yang membawa Al-Qur'an tersebut, yaitu Malaikat Jibril, dengan lima macam sifat yang mengandung keutamaan:\n\n1.Yang mulia pada sisi Tuhannya karena Allah memberikan padanya sesuatu yang paling berharga yaitu hidayah, dan memerintahkannya untuk menyampaikan hidayah itu kepada para nabi-Nya diteruskan kepada para hamba-Nya.\n\n2.Yang mempunyai kekuatan dalam memelihara Al-Qur'an jauh dari sifat pelupa atau keliru.\n\n3.Yang mempunyai kedudukan tinggi di sisi Allah yang mempunyai 'Arasy.\n\n4.Yang ditaati di kalangan malaikat karena kewenangannya.\n\n5.Yang dipercaya untuk menyampaikan wahyu karena terpelihara dari sifat-sifat khianat dan penyelewengan.",
+          "22": "Dalam ayat ini, Allah menyifati Nabi Muhammad dengan mengatakan bahwa Muhammad itu bukanlah orang gila, sebagaimana yang dituduhkan oleh orang-orang kafir Mekah.\n\nKalimat \"temanmu\" dalam ayat ini merupakan alasan untuk menerangkan kedustaan mereka. Sebab, setiap orang akan mengenal tabiat temannya yang sehari-hari bergaul dengannya. Orang-orang Quraisy itu selalu bergaul dengan Nabi Muhammad semenjak beliau masih kecil dan mengetahui kejujuran beliau. Oleh karena itu, mereka memberikan julukan kehormatan kepadanya dengan kata-kata \"al-Amin\" sebelum beliau menjadi nabi.\n\nBeliau tidak pernah berdusta, menyalahi janji, atau berkhianat, sehingga apa-apa yang dituduhkan kepada Nabi Muhammad itu tentang sifat gila, tukang sihir, atau pendusta adalah bohong semata.",
+          "23": "Nabi Muhammad pernah melihat Jibril dalam bentuk yang asli dua kali dalam hidupnya. Pertama, ketika beliau berada di Gua Hira sebelum turunnya Surah al-Muddatstsir, dan kedua, ketika beliau mi'raj ke langit ketujuh. Firman Allah \n\nDan sungguh, dia (Muhammad) telah melihatnya (dalam rupanya yang asli) pada waktu yang lain, (yaitu) di Sidratul Muntaha. (an-Najm/53: 13-14)",
+          "24": "Ayat ini menerangkan bahwa Nabi Muhammad bukanlah seorang bakhil dalam menyampaikan seluruh wahyu yang disampaikan malaikat Jibril kepadanya. Di samping itu, beliau adalah seorang yang sangat dipercaya karena tidak pernah mengubah wahyu walaupun satu huruf dengan ucapannya sendiri.",
+          "25": "Dalam ayat ini, Allah menerangkan bahwa Al-Qur'an bukanlah perkataan setan yang terkutuk, dan bukanlah perkataan yang diletakkan oleh setan di atas lidah Muhammad ketika mengganggu akalnya seperti yang dituduhkan oleh orang Quraisy. Muhammad sudah terkenal sejak kecilnya dengan pikiran yang sehat dan tidak pernah berbuat khianat. Oleh karena itu, apa yang diterangkan oleh Muhammad tentang berita akhirat, surga, dan neraka bukanlah perkataan setan.",
+          "26": "Kemudian Allah menerangkan bahwa orang-orang Quraisy itu telah sesat, jauh dari jalan kebenaran, dan tidak mengetahui jalan kebijaksanaan, sehingga Allah bertanya kepada mereka, \"Maka ke manakah kamu akan pergi?\" Maksudnya ialah sesudah diterangkan bahwa Al-Qur'an itu benar-benar datang dari Allah dan di dalamnya terdapat pelajaran dan petunjuk yang membimbing manusia ke jalan yang lurus, ditanyakan kepada orang-orang kafir itu, \"Jalan manakah yang akan kamu tempuh lagi?\"",
+          "27": "Kemudian Allah menyatakan bahwa Al-Qur'an itu tiada lain hanya peringatan bagi semesta alam, bagi mereka yang mempunyai hati cenderung kepada kebaikan. Namun demikian, tidak semua manusia dapat mengambil manfaat dari Al-Qur'an ini. Yang mengambil manfaat ialah siapa yang mau menempuh jalan yang lurus. Adapun orang yang menyimpang dari jalan itu, maka ia tidak dapat mengambil manfaat dari peringatan Al-Qur'an.",
+          "28": "Kemudian Allah menyatakan bahwa Al-Qur'an itu tiada lain hanya peringatan bagi semesta alam, bagi mereka yang mempunyai hati cenderung kepada kebaikan. Namun demikian, tidak semua manusia dapat mengambil manfaat dari Al-Qur'an ini. Yang mengambil manfaat ialah siapa yang mau menempuh jalan yang lurus. Adapun orang yang menyimpang dari jalan itu, maka ia tidak dapat mengambil manfaat dari peringatan Al-Qur'an.",
+          "29": "Dalam ayat ini, Allah mengatakan bahwa manusia tidak mempunyai kehendak sendiri untuk berbuat sesuatu yang dikehendakinya bilamana tidak sesuai dengan kehendak Allah."
+        }
+      }
+    }
+  }
+}
