@@ -1,12 +1,12 @@
 {
-  "name": "quran-audio_api",
+  "name": "quranjson",
   "version": "1.0.0",
   "description": "",
   "main": "road_to_jannah.js",
   "scripts": {
     "start": "node road_to_jannah.js"
   },
-  "author": "Muhammad Dary Azhari",
-  "license": "ISC",
+  "author": "Primy Peluncuran Indonesia",
+  "license": "MIT",
   "dependencies": {}
 }
