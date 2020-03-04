@@ -1,41 +1,58 @@
 # Quran JSON API | بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم
 
-JSON Alquran Lengkap Sempurna Sederhana (Terjemahan Indonesia, Tafsir, dan Audio) Beserta dengan REST API. Silakan menggunakannya sebaik mungkin dan semoga berkah.
+Simplified Perfect Complete Quran JSON (Indonesian Translation, Tafsir, and Audio) Along with the REST API. Please use it as best you can and have a blessing.
 
-### Stuktur Direktori QuranJSON
+## Quran JSON Directory Structure
 
 ```sh
 .
 ├── README.md
-├── quran-complete.json         // AL-Quran JSON Lengkap
+├── quran-complete.json         // AL-Quran JSON Complete
 ├── quran.json                  // AL-Quran JSON
 ├── road_to_jannah.json         // API QuranJSON
-└── surah                       // Direktori JSON Surah Lengkap
+└── surah                       // Complete Surah JSON Directory
     └── <number_of:1-114>.json
 ```
 
-## Penggunaan API / Service
+## Real app that uses QuranJSON
 
-### Menggunakan Service QuranJSON API
+- [Quran Daily: Unlock Your Heart (iOS)](https://apps.apple.com/us/app/quran-daily-unlock-your-heart/id1494995253)
 
-> Rute API Surah banyak yang tidak tersedia dikarenakan terkena limit ukuran json, karena ini menggunakan service gratisan.
+Add your application to this list with a pull request
 
-Dengan mengakses BASE_URL API : https://www.jsonstore.io/0cbbe501d81d44f64f10c9b10d51a7bd837827928b26f2055b7d274078c607f6/
+## Use Of API / Service
 
-#### Mengakses API Quran Sederhana
-
-```sh
-GET - BASE_URL/ 
-```
-#### Mengakses API Surah Al Fatihah Lengkap
-
-```sh
-GET - BASE_URL/surah/1 
-```
-
-### Menjalankan Service sendiri
+### Run your own service
 
 ```sh
 npm install
 npm start
+```
+
+#### Access the Simple Quran API
+
+```sh
+GET - BASE_URL/
+```
+
+#### Access the Complete Surah Al Fatihah API
+
+```sh
+GET - BASE_URL/surah/1
+```
+
+### Using the QuranJSON Github JSON Service
+
+Can be directly accessed through the directory.
+
+Quran:
+
+```sh
+https://raw.githubusercontent.com/penggguna/QuranJSON/master/quran.json
+```
+
+Surah:
+
+```sh
+https://raw.githubusercontent.com/penggguna/QuranJSON/master/surah/1.json
 ```
